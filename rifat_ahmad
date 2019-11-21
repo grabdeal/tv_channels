@@ -1,21 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png"  group-title="Bangla",ASIAN TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png"  group-title="Bangla",ASIAN TV
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" tvg-name="ATN BANGLA"  group-title="Bangla",ATN BANGLA
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png"  group-title="Bangla",ASIAN TV
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" tvg-name="ATN Islamic"  group-title="Bangla",ATN Islamic
 http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/44182
+#EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png"  group-title="Bangla",ASIAN TV
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.0-9/1688536_220858094768854_1483578080_n.png?_nc_cat=101&_nc_ohc=oDUy5WJ59NYAQmvOx3R2Uv1ZzuHNQiwzNbQGh7cBSfFImVQ246hMtwqKA&_nc_ht=scontent.fdac14-1.fna&oh=350a10b80721fbdebb7826d6a2604c00&oe=5E8C9F94" tvg-name="ATN Music"  group-title="Bangla",ATN Music
 http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/44183
+#EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png"  group-title="Bangla",ASIAN TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" tvg-name="ATN News"  group-title="Bangla",ATN News
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png"  group-title="Bangla",ASIAN TV
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" tvg-name="BANGLA TV"  group-title="Bangla",BANGLA TV
 http://27.147.156.14:1935/Bangla-TV/Bangla-TV.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png"  group-title="Bangla",ASIAN TV
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-bzFJd4rINCw/V5j6XBT2vUI/AAAAAAAAACk/d7SYrAOlcFUruR_cjMehLEKes4KJWXPKQCK4B/s1600/bangla-vision-news.jpg" tvg-name="BANGLA VISION"  group-title="Bangla",BANGLA VISION
 http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="http://bijoy.tv/wp-content/uploads/2019/05/logo.png" tvg-name="BIJOY TV"  group-title="Bangla",BIJOY TV
+#EXTINF:-1 tvg-id="BIJOY TV" tvg-name="BIJOY TV" tvg-logo="http://bijoy.tv/wp-content/uploads/2019/05/logo.pn"  group-title="Bangla",Bijoy TV
 http://27.147.156.14:1935/Bijoy-TV/Bijoy-TV.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png" tvg-name="BOISHAKHI TV"  group-title="Bangla",BOISHAKHI TV
+#EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png"  group-title="Bangla",Boishakhi TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,BTV
 http://103.3.226.74:1934/cZVydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
