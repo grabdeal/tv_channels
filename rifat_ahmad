@@ -435,6 +435,5 @@ http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Live Football 2"  group-title="Unsorted",Live Football 2
 http://falconiptv.hopto.org:1935/f1/_definst_/f1/chunklist_w245095144.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" tvg-name="ATN News"  group-title="Bangla",ATN News
+#EXTINF:-1, tvg-id="" tvg-logo="New Logo" tvg-name="ATN News"  group-title="Bangla",ATN News
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-
