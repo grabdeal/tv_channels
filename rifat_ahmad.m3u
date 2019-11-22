@@ -17,20 +17,20 @@ http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/chunks.m3u8
 http://27.147.156.14:1935/Bijoy-TV/Bijoy-TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png"  group-title="Bangla",Boishakhi TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1,BTV
-http://103.3.226.74:1934/cZVydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
-#EXTINF:-1,BTV World
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL 9
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1,CHANNEL 24
-http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL I
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1,Channel S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1,DBC News
-http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png"  group-title="Bangla",BTV
+http://103.3.226.74:1934/cZVydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8									
+#EXTINF:-1 tvg-id="BTV World" tvg-name="BTV World" tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif"  group-title="Bangla",BTV World
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8									
+#EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/260px-Channel9_bd.svg.png"  group-title="Bangla",Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8									
+#EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png"  group-title="Bangla",Channel 24
+http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8									
+#EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png"  group-title="Bangla",Channel i
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8									
+#EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.0-9/15621696_639160312930513_8102486668737065772_n.png?_nc_cat=100&_nc_ohc=jnqr4rtWQW0AQlThlAl2rICVMPKlfWs4I8TohQIxqYOVSV0t2anB_rVgg&_nc_ht=scontent.fdac14-1.fna&oh=73957df3a68066da573325ca37e5ee90&oe=5E4912C1"  group-title="Bangla",Channel S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8									
+#EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png"  group-title="",DBC News
+http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8	
 #EXTINF:-1,Deepto TV
 http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w992309116.m3u8
 #EXTINF:-1,Desh TV
