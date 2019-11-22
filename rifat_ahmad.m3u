@@ -29,7 +29,7 @@ http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8									
 #EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.0-9/15621696_639160312930513_8102486668737065772_n.png?_nc_cat=100&_nc_ohc=jnqr4rtWQW0AQlThlAl2rICVMPKlfWs4I8TohQIxqYOVSV0t2anB_rVgg&_nc_ht=scontent.fdac14-1.fna&oh=73957df3a68066da573325ca37e5ee90&oe=5E4912C1"  group-title="Bangla",Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8									
-#EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png"  group-title="",DBC News
+#EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png"  group-title="Bangla",DBC News
 http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8	
 #EXTINF:-1,Deepto TV
 http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w992309116.m3u8
