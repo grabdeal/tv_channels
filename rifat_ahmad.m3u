@@ -4,9 +4,9 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" tvg-name="ATN BANGLA"  group-title="Bangla",ATN BANGLA
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" tvg-name="ATN Islamic"  group-title="Bangla",ATN Islamic
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/44182
+http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.0-9/1688536_220858094768854_1483578080_n.png?_nc_cat=101&_nc_ohc=oDUy5WJ59NYAQmvOx3R2Uv1ZzuHNQiwzNbQGh7cBSfFImVQ246hMtwqKA&_nc_ht=scontent.fdac14-1.fna&oh=350a10b80721fbdebb7826d6a2604c00&oe=5E8C9F94" tvg-name="ATN Music"  group-title="Bangla",ATN Music
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/44183
+http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" tvg-name="ATN News"  group-title="Bangla",ATN News
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" tvg-name="BANGLA TV"  group-title="Bangla",BANGLA TV
@@ -155,8 +155,6 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://43.231.22.238:8081/Abong/abnongtv/chunks.m3u8
 #EXTINF:-1,Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
-#EXTINF:-1,Atn Islam
-http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1,Al Dawah TV
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/live-orgin/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1,Iqra Bangla TV
@@ -187,8 +185,6 @@ http://27.147.156.14:1935/Dhoom-Music/Dhoom-Music.stream/chunklist_w105486853.m3
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://103.121.36.238:8081/live/sangeetbangla/chunks.m3u8
-#EXTINF:-1,ATN Music
-http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,RTV Music
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Assam Talk
