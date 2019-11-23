@@ -255,28 +255,28 @@ http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
 http://103.121.36.238:8081/live/espnhd/playlist.m3u8
 #EXTINF:-1,Sony SIX
 http://103.121.36.238:8081/live/sonysix/playlist.m3u8
-#EXTINF:-1,Star Sports 1
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
 http://103.121.36.238:8081/live/starsports1/chunks.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HINDI HD" tvg-logo="",SPORTS: STAR SPORTS 1 HINDI HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports",STAR SPORTS 1 HINDI HD
 http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/23930
-#EXTINF:-1,Star Sports 2
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
 http://103.121.36.238:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1,STAR SPORTS 3
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 3 HD" tvg-logo="" group-title="Sports",STAR SPORTS 3 HD
 http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/23928
 #EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 1 HD" tvg-logo="" group-title="Sports",Star Sports Select 1 HD
 http://103.121.36.238:8081/live/select1/chunks.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Sports",STAR SPORTS SELECT 2 HD
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/23926
+#EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Sports",Star Sports Select 2 HD
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/12049
 #EXTINF:-1 tvg-ID="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34534
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22696
 #EXTINF:-1 tvg-ID="" tvg-name="TSN 2" tvg-logo="" group-title="Sports",TSN 2
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34533
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22695
 #EXTINF:-1 tvg-ID="" tvg-name="TSN 3" tvg-logo="" group-title="Sports",TSN 3
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34532
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22694
 #EXTINF:-1 tvg-ID="" tvg-name="TSN 4" tvg-logo="" group-title="Sports",TSN 4
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34531
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22693
 #EXTINF:-1 tvg-ID="" tvg-name="TSN 5" tvg-logo="" group-title="Sports",TSN 5
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34530
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22692
 #EXTINF:-1,Arekay Sports
 http://103.121.36.238:8081/live/bein1/chunks.m3u8
 #EXTINF:-1,Live Football 1
@@ -298,9 +298,13 @@ http://adtv.ercdn.net/adsport4/adsport4.m3u8
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
 #EXTINF:-1,ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1,BT Sports 2
+#EXTINF:-1 tvg-ID="BT Sports 1 HD" tvg-name="BT Sports 1 HD" tvg-logo="" group-title="Sports",BT Sports 1 HD
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/8178
+#EXTINF:-1 tvg-ID="BT Sports 2 HD" tvg-name="BT Sports 2 HD 1080P" tvg-logo="" group-title="Sports",BT Sports 2 HD
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8?fluxustv.m3u8
-#EXTINF:-1,BT Sports ESPN
+#EXTINF:-1 tvg-ID="BT Sports 3 HD" tvg-name="BT Sports 3 HD 1080P" tvg-logo="" group-title="Sports",BT Sports 3 HD
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/8180
+#EXTINF:-1 tvg-ID="BT Sports ESPN HD" tvg-name="BT Sports ESPN HD" tvg-logo="" group-title="Sports",BT Sports ESPN HD
 https://sportbar.biz/lba/123/g7/btse.m3u8?fluxustv.m3u8
 #EXTINF:-1,KTV SPORT
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
