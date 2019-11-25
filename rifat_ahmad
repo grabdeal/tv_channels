@@ -10,7 +10,7 @@ http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangla",ATN News
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8									
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangla",Bangla TV
-http://27.147.156.14:1935/Bangla-TV/Bangla-TV.stream/chunks.m3u8
+http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bangla Vision" tvg-name="Bangla Vision" tvg-logo="http://1.bp.blogspot.com/-bzFJd4rINCw/V5j6XBT2vUI/AAAAAAAAACk/d7SYrAOlcFUruR_cjMehLEKes4KJWXPKQCK4B/s1600/bangla-vision-news.jpg" group-title="Bangla",Bangla Vision
 http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="BIJOY TV" tvg-name="BIJOY TV" tvg-logo="http://bijoy.tv/wp-content/uploads/2019/05/logo.png"  group-title="Bangla",Bijoy TV
