@@ -175,6 +175,8 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 #EXTINF:-1,Star TV Bangla
 http://43.231.22.238:8081/startvbangla/startv/chunks.m3u8
+#EXTINF:-1 tvg-id="Bangla Talkies" tvg-name="Bangla Talkies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BanglaTalkies.png" group-title="Bangla",Bangla Talkies
+http://stream.amrbd.com:8082/BanglaTalk/tracks-v1a1/mono.m3u8?token=197d292c18485da4dfa51fad8416d6db6396d88e-b90a4e38609fec720e1017e7d037df6a-1574986096-1574975296
 #EXTINF:-1,Doom Music
 http://27.147.156.14:1935/Dhoom-Music/Dhoom-Music.stream/chunklist_w105486853.m3u8
 #EXTINF:-1,Gaan Bangla
