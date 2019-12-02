@@ -69,7 +69,7 @@ http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoae
 http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="SA TV" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SATV.png" group-title="Bangla",SA TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/somoy%20tv.png" group-title="Bangla",Somoy TV
+#EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SomoyTV.png" group-title="Bangladesh",Somoy TV
 http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Sangsad TV" tvg-name="Sangsad TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/sangshad%20bangladesh.png" group-title="Bangla",Sangsad TV
 http://jotv.bdtype.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
@@ -95,41 +95,135 @@ http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://banner2.cleanpng.com/20190112/iiu/kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg" group-title="Bangla",Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
-#EXTINF:-1,Sony Ten1
-http://103.121.36.238:8081/live/ten1hd/playlist.m3u8
-#EXTINF:-1,Sony Ten2
-http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1,Sony Ten3
-http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
-#EXTINF:-1,Sony ESPN
-http://103.121.36.238:8081/live/espnhd/playlist.m3u8
-#EXTINF:-1,Sony SIX
-http://103.121.36.238:8081/live/sonysix/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
+http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/live-orgin/dawah-eu.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ATN Islamic" tvg-name="ATN Islamic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/ATNIslamic.png" group-title="Religion",ATN Islamic
+http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Iqra Bangla TV" tvg-name="Iqra Bangla TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/IqraBanglaTV.png" group-title="Religion",Iqra Bangla TV
+http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Madani TV Bangla" tvg-name="Madani TV Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniBangla.png" group-title="Religion",Madani TV Bangla
+http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Religion",Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
+#EXTINF:-1 tvg-id="Azan TV" tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Religion",Azan TV
+http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/SonyTen3.png" group-title="Sports",Sony Ten 1
+http://10.16.100.241/exthls/sonyten1.m3u8
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/BanglaSonyTen2.png" group-title="Sports",Sony Ten 2
+http://10.16.100.201:8082/hindi/SONYTEN2.m3u8
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonyTen3.png" group-title="Sports",Sony Ten 3
+http://10.16.100.241/exthls/sonyten_3.m3u8
+#EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonySix.png" group-title="Sports",Sony Six
+http://10.16.100.241/exthls/SONYSIXHD.m3u8
+#EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonyESPN.png" group-title="Sports",Sony ESPN
+http://10.16.100.207:8082/sports/sony_ESPN_hd.m3u8
+#EXTINF:-1 tvg-id="Sony ESPN HD" tvg-name="Sony ESPN HD" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonyESPN.png" group-title="Sports",Sony ESPN HD
+http://10.16.100.241/exthls/sonyespn_HD.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarSports1.png" group-title="Sports",Star Sports 1
 http://103.121.36.238:8081/live/starsports1/chunks.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports",STAR SPORTS 1 HINDI HD
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/23930
-#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarSports2.png" group-title="Sports",Star Sports 2
 http://103.121.36.238:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 3 HD" tvg-logo="" group-title="Sports",STAR SPORTS 3 HD
+#EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarSports3.png" group-title="Sports",Star Sports 3
 http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/23928
-#EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 1 HD" tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
 http://103.121.36.238:8081/live/select1/chunks.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarSportsSelect1.png" group-title="Sports",Star Sports Select 2
 http://103.121.36.238:8081/live/select2/chunks.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 2" tvg-logo="" group-title="Sports",TSN 2
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22695
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 3" tvg-logo="" group-title="Sports",TSN 3
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22694
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 4" tvg-logo="" group-title="Sports",TSN 4
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22693
-#EXTINF:-1 tvg-ID="" tvg-name="TSN 5" tvg-logo="" group-title="Sports",TSN 5
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22692
-#EXTINF:-1 tvg-ID="BT Sports 1 HD" tvg-name="BT Sports 1 HD" tvg-logo="" group-title="Sports",BT Sports 1 HD
+#EXTINF:-1 tvg-id="Ten Sports" tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Ten Sports
+http://163.172.85.133:8080/TenS/sports/index.m3u8
+#EXTINF:-1 tvg-id="Bein Sports La Liga" tvg-name="Bein Sports La Liga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports La Liga
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30991
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 1
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/28732
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="Bein Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 2
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/28731
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="Bein Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 3
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/28730
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="Bein Sports 4" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 4
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30740
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="Bein Sports 5" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 5
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30741
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="Bein Sports 6" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 6
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30742
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="Bein Sports 7" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 7
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30743
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="Bein Sports 8" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 8
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30744
+#EXTINF:-1 tvg-id="Bein Sports USA" tvg-name="Bein Sports USA" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports USA
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/10696
+#EXTINF:-1 tvg-id="Bein Sports Canada" tvg-name="Bein Sports Canada" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports Canada
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30992
+#EXTINF:-1 tvg-id="Bein Sports 1 Australia" tvg-name="Bein Sports 1 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 1 Australia
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30975
+#EXTINF:-1 tvg-id="Bein Sports 2 Australia" tvg-name="Bein Sports 2 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 2 Australia
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30974
+#EXTINF:-1 tvg-id="Bein Sports 3 Australia" tvg-name="Bein Sports 3 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 3 Australia
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30973
+#EXTINF:-1 tvg-id="Bein Sport News HD Arabic" tvg-name="Bein Sport News HD Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport News HD Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/285
+#EXTINF:-1 tvg-id="Bein Sport 1 Arabic" tvg-name="Bein Sport 1 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 1 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13800
+#EXTINF:-1 tvg-id="Bein Sport 2 Arabic" tvg-name="Bein Sport 2 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 2 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13799
+#EXTINF:-1 tvg-id="Bein Sport 3 Arabic" tvg-name="Bein Sport 3 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 3 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13798
+#EXTINF:-1 tvg-id="Bein Sport 4 Arabic" tvg-name="Bein Sport 4 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 4 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13797
+#EXTINF:-1 tvg-id="Bein Sport 5 Arabic" tvg-name="Bein Sport 5 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 5 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13796
+#EXTINF:-1 tvg-id="Bein Sport 6 Arabic" tvg-name="Bein Sport 6 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 6 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13795
+#EXTINF:-1 tvg-id="Bein Sport 7 Arabic" tvg-name="Bein Sport 7 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 7 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13794
+#EXTINF:-1 tvg-id="Bein Sport 8 Arabic" tvg-name="Bein Sport 8 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 8 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13793
+#EXTINF:-1 tvg-id="Bein Sport 9 Arabic" tvg-name="Bein Sport 9 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 9 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13792
+#EXTINF:-1 tvg-id="Bein Sport 10 Arabic" tvg-name="Bein Sport 10 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 10 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13791
+#EXTINF:-1 tvg-id="Bein Sport 11 Arabic" tvg-name="Bein Sport 11 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 11 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13660
+#EXTINF:-1 tvg-id="Bein Sport 12 Arabic" tvg-name="Bein Sport 12 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 12 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13661
+#EXTINF:-1 tvg-id="Bein Sport 13 Arabic" tvg-name="Bein Sport 13 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 13 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18785
+#EXTINF:-1 tvg-id="Bein Sport 14 Arabic" tvg-name="Bein Sport 14 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 14 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18824
+#EXTINF:-1 tvg-id="Bein Sport 15 Arabic" tvg-name="Bein Sport 15 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 15 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18825
+#EXTINF:-1 tvg-id="Bein Sport 16 Arabic" tvg-name="Bein Sport 16 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 16 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18826
+#EXTINF:-1 tvg-id="Bein Sport 17 Arabic" tvg-name="Bein Sport 17 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport 17 Arabic
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18827
+#EXTINF:-1 tvg-id="Bein Sports Haber Turkey" tvg-name="Bein Sports Haber Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports Haber Turkey
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/14792
+#EXTINF:-1 tvg-id="Bein Sports 1 Turkey" tvg-name="Bein Sports 1 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 1 Turkey
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/25955
+#EXTINF:-1 tvg-id="Bein Sports 2 Turkey" tvg-name="Bein Sports 2 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 2 Turkey
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/25954
+#EXTINF:-1 tvg-id="Bein Sports 3 Turkey" tvg-name="Bein Sports 3 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 3 Turkey
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/25953
+#EXTINF:-1 tvg-id="Bein Sports 4 Turkey" tvg-name="Bein Sports 4 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sports 4 Turkey
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/25952
+#EXTINF:-1 tvg-id="Bein Sport MAX 1 Turkey" tvg-name="Bein Sport MAX 1 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport MAX 1 Turkey
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/9592
+#EXTINF:-1 tvg-id="Bein Sport MAX 2 Turkey" tvg-name="Bein Sport MAX 2 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",Bein Sport MAX 2 Turkey
+http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/9591
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",TSN 1
+http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34534
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",TSN 2
+http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34533
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",TSN 3
+http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34532
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",TSN 4
+http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34531
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",TSN 5
+http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/34530
+#EXTINF:-1 tvg-id="BT Sports 1" tvg-name="BT Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",BT Sports 1
 http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/8178
-#EXTINF:-1 tvg-ID="BT Sports 2 HD" tvg-name="BT Sports 2 HD 1080P" tvg-logo="" group-title="Sports",BT Sports 2 HD
+#EXTINF:-1 tvg-id="BT Sports 2" tvg-name="BT Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",BT Sports 2
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-ID="BT Sports 3 HD" tvg-name="BT Sports 3 HD 1080P" tvg-logo="" group-title="Sports",BT Sports 3 HD
+#EXTINF:-1 tvg-id="BT Sports 3" tvg-name="BT Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",BT Sports 3
 http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/8180
-#EXTINF:-1 tvg-ID="BT Sports ESPN HD" tvg-name="BT Sports ESPN HD" tvg-logo="" group-title="Sports",BT Sports ESPN HD
+#EXTINF:-1 tvg-id="BT Sports ESPN" tvg-name="BT Sports ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Sports",BT Sports ESPN
 https://sportbar.biz/lba/123/g7/btse.m3u8?fluxustv.m3u8
