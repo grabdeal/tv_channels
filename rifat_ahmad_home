@@ -69,7 +69,7 @@ http://10.16.100.203:8082/bangla/ruposhibangla.m3u8
 http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SATV.png" group-title="Bangladesh",SATV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SomoyTV.PNG" group-title="Bangladesh",Somoy TV
+#EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SomoyTV.png" group-title="Bangladesh",Somoy TV
 http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Sangshad Bangladesh" tvg-name="Sangshad Bangladesh" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/sangshad%20bangladesh.png" group-title="Bangladesh",Sangshad Bangladesh
 http://jotv.bdtype.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
@@ -107,7 +107,7 @@ http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-id="Azan TV" tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Religion",Azan TV
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Makka TV" tvg-name="Makka TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MakkaTV" group-title="Religion",Makka TV
+#EXTINF:-1 tvg-id="Makka TV" tvg-name="Makka TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MakkaTV.png" group-title="Religion",Makka TV
 http://m.live.net.sa:1935/live/quran/chunklist_w2057676413.m3u8
 #EXTINF:-1 tvg-id="Madani Channel" tvg-name="Madani TV English" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion",Madani Channel
 https://svs.itworkscdn.net/madanitvenlive/mdtve.smil/playlist.m3u8
@@ -139,8 +139,8 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 http://10.16.100.241/exthls/sonyten1.m3u8
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2" group-title="Sports",Sony Ten 2
 http://10.16.100.201:8082/hindi/SONYTEN2.m3u8
-http://103.121.36.238:8081/live/ten3hd/playlist.m3u8	Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen3" group-title="Sports",Sony Ten 3
-http://10.16.100.241/exthls/sonyten_3.m3u8
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen3" group-title="Sports",Sony Ten 3
+http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonySix" group-title="Sports",Sony Six
 http://10.16.100.241/exthls/SONYSIXHD.m3u8
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN" group-title="Sports",Sony ESPN
