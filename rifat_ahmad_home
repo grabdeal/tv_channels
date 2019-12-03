@@ -136,15 +136,15 @@ https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/TLC" group-title="Infotainment",TLC
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1" group-title="Sports",Sony Ten 1
-http://10.16.100.241/exthls/sonyten1.m3u8
+http://103.121.36.238:8081/live/ten1hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2" group-title="Sports",Sony Ten 2
-http://10.16.100.201:8082/hindi/SONYTEN2.m3u8
+http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen3" group-title="Sports",Sony Ten 3
 http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonySix" group-title="Sports",Sony Six
-http://10.16.100.241/exthls/SONYSIXHD.m3u8
+http://103.121.36.238:8081/live/sonysix/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN" group-title="Sports",Sony ESPN
-http://10.16.100.207:8082/sports/sony_ESPN_hd.m3u8
+http://103.121.36.238:8081/live/espnhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony ESPN HD" tvg-name="Sony ESPN HD" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPNHD" group-title="Sports",Sony ESPN HD
 http://10.16.100.241/exthls/sonyespn_HD.m3u8
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports1" group-title="Sports",Star Sports 1
