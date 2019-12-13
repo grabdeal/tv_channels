@@ -137,12 +137,12 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryChannel.png" group-title="Infotainment",Discovery Channel
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Bangla" tvg-name="Discovery Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryBangla.png" group-title="Infotainment",Discovery Bangla
+http://103.118.76.229:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryScience.png" group-title="Infotainment",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryTurbo.png" group-title="Infotainment",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 tvg-id="Discovery Bangla" tvg-name="Discovery Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryBangla.png" group-title="Infotainment",Discovery Bangla
-http://103.118.76.229:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryWorld.png" group-title="Infotainment",Discovery World
 http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/49551
 #EXTINF:-1 tvg-id="NASA TV" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NASATV.png" group-title="Infotainment",NASA TV
