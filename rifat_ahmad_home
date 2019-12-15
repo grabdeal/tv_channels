@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Ananda%20TV.png" group-title="Bangladesh",Ananda TV
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/asian%20tv.png" group-title="Bangladesh",Asian TV
@@ -300,41 +301,41 @@ https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
 https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 #EXTINF:-1 tvg-id="Sharjah Sports" tvg-name="Sharjah Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SharjahSports.png" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Akaram Kidz" tvg-name="Akaram Kidz" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/AkaramKidz.png" group-title="Infotainment",Akaram Kidz
+#EXTINF:-1 tvg-id="Akaram Kidz" tvg-name="Akaram Kidz" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/AkaramKidz.png" group-title="Kids",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Animax.png" group-title="Infotainment",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Animax.png" group-title="Kids",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 tvg-id="AnyPlus" tvg-name="AnyPlus" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/AnyPlus.png" group-title="Infotainment",AnyPlus
+#EXTINF:-1 tvg-id="AnyPlus" tvg-name="AnyPlus" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/AnyPlus.png" group-title="Kids",AnyPlus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Boomerang.png" group-title="Infotainment",Boomerang
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Boomerang.png" group-title="Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network 1" tvg-name="Cartoon Network 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/CartoonNetwork1.png" group-title="Infotainment",Cartoon Network 1
+#EXTINF:-1 tvg-id="Cartoon Network 1" tvg-name="Cartoon Network 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/CartoonNetwork1.png" group-title="Kids",Cartoon Network 1
 http://103.111.120.46/hls/Carton_Network.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network 2" tvg-name="Cartoon Network 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/CartoonNetwork2.png" group-title="Infotainment",Cartoon Network 2
+#EXTINF:-1 tvg-id="Cartoon Network 2" tvg-name="Cartoon Network 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/CartoonNetwork2.png" group-title="Kids",Cartoon Network 2
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/CartoonNetworkHD.png" group-title="Infotainment",Cartoon Network HD
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/CartoonNetworkHD.png" group-title="Kids",Cartoon Network HD
 http://103.118.76.229:1935/tvprogram/CARTOON/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoons 4U" tvg-name="Cartoons 4U" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Cartoons4U.png" group-title="Infotainment",Cartoons 4U
+#EXTINF:-1 tvg-id="Cartoons 4U" tvg-name="Cartoons 4U" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Cartoons4U.png" group-title="Kids",Cartoons 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryKids.png" group-title="Infotainment",Discovery Kids
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryKids.png" group-title="Kids",Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DisneyJunior.png" group-title="Infotainment",Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DisneyJunior.png" group-title="Kids",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="Dubbi Kids" tvg-name="Dubbi Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DubbiKids.png" group-title="Infotainment",Dubbi Kids
+#EXTINF:-1 tvg-id="Dubbi Kids" tvg-name="Dubbi Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DubbiKids.png" group-title="Kids",Dubbi Kids
 https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/master.m3u8
-#EXTINF:-1 tvg-id="EBS Kids" tvg-name="EBS Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/EBSKids.png" group-title="Infotainment",EBS Kids
+#EXTINF:-1 tvg-id="EBS Kids" tvg-name="EBS Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/EBSKids.png" group-title="Kids",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="Ketnet Junior" tvg-name="Ketnet Junior" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/KetnetJunior.png" group-title="Infotainment",Ketnet Junior
+#EXTINF:-1 tvg-id="Ketnet Junior" tvg-name="Ketnet Junior" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/KetnetJunior.png" group-title="Kids",Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/KidsTV.png" group-title="Infotainment",Kids TV
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/KidsTV.png" group-title="Kids",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-id="Nick 1" tvg-name="Nick 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Nick1.png" group-title="Infotainment",Nick 1
+#EXTINF:-1 tvg-id="Nick 1" tvg-name="Nick 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Nick1.png" group-title="Kids",Nick 1
 http://103.121.36.238:8081/live/nike-50/chunks.m3u8
-#EXTINF:-1 tvg-id="Nick 2" tvg-name="Nick 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Nick2.png" group-title="Infotainment",Nick 2
+#EXTINF:-1 tvg-id="Nick 2" tvg-name="Nick 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/Nick2.png" group-title="Kids",Nick 2
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai Gulp" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/RaiGulp.png" group-title="Infotainment",Rai Gulp
+#EXTINF:-1 tvg-id="Rai Gulp" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/RaiGulp.png" group-title="Kids",Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 tvg-id="Spacetoons Kids" tvg-name="Spacetoons Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/SpacetoonsKids.png" group-title="Infotainment",Spacetoons Kids
+#EXTINF:-1 tvg-id="Spacetoons Kids" tvg-name="Spacetoons Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/SpacetoonsKids.png" group-title="Kids",Spacetoons Kids
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATN Music" tvg-name="ATN Music" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ATN%20Music.png" group-title="Music",ATN Music
 http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
