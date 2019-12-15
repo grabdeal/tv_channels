@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Ananda%20TV.png" group-title="Bangladesh",Ananda TV
 http://cdn.appv.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/asian%20tv.png" group-title="Bangladesh",Asian TV
