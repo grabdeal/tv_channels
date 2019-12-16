@@ -126,7 +126,7 @@ http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryTurbo.png" group-title="Infotainment",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryWorld.png" group-title="Infotainment",Discovery World
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/49551
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/26064
 #EXTINF:-1 tvg-id="NASA TV" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NASATV.png" group-title="Infotainment",NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="FOX Life" tvg-name="FOX Life" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/FOXLife.png" group-title="Infotainment",FOX Life
@@ -146,19 +146,17 @@ http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonySix.png" group-title="Sports",Sony Six
 http://103.121.36.238:8081/live/sonysix/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/8122
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8122
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports1.png" group-title="Sports",Star Sports 1
-http://103.121.36.238:8081/live/starsports1/chunks.m3u8
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8114
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports2.png" group-title="Sports",Star Sports 2
-http://103.121.36.238:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports3.png" group-title="Sports",Star Sports 3
-http://4kiptv.vip:25461/hqoBcTZhoFhdHJS/anoxvOAv8QEZ5iZ/23928
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8115
 #EXTINF:-1 tvg-id="Star Sports First" tvg-name="Star Sports First" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsFirst.png" group-title="Sports",Star Sports First
 http://27.147.156.14:1935/Star_Sports_First/Star_Sports_First.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
-http://103.121.36.238:8081/live/select1/chunks.m3u8
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/12048
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
-http://103.121.36.238:8081/live/select2/chunks.m3u8
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/12049
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportsCricket.png" group-title="Sports",Sky Sports Cricket
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenCricket.png" group-title="Sports",Ten Cricket
@@ -166,99 +164,99 @@ http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1 tvg-id="Willow" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/Willow.png" group-title="Sports",Willow
 http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/4403
 #EXTINF:-1 tvg-id="Bein Sports La Liga" tvg-name="Bein Sports La Liga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsLaLiga.png" group-title="Sports",Bein Sports La Liga
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30991
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30991
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1.png" group-title="Sports",Bein Sports 1
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/28732
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/28732
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="Bein Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2.png" group-title="Sports",Bein Sports 2
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/28731
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/28731
 #EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="Bein Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3.png" group-title="Sports",Bein Sports 3
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/28730
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/28730
 #EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="Bein Sports 4" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports4.png" group-title="Sports",Bein Sports 4
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30740
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30740
 #EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="Bein Sports 5" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports5.png" group-title="Sports",Bein Sports 5
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30741
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30741
 #EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="Bein Sports 6" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports6.png" group-title="Sports",Bein Sports 6
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30742
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30742
 #EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="Bein Sports 7" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports7.png" group-title="Sports",Bein Sports 7
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30743
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30743
 #EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="Bein Sports 8" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports8.png" group-title="Sports",Bein Sports 8
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30744
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30744
 #EXTINF:-1 tvg-id="Bein Sports USA" tvg-name="Bein Sports USA" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsUSA.png" group-title="Sports",Bein Sports USA
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/10696
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/10696
 #EXTINF:-1 tvg-id="Bein Sports Canada" tvg-name="Bein Sports Canada" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsCanada.png" group-title="Sports",Bein Sports Canada
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30992
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30992
 #EXTINF:-1 tvg-id="Bein Sports 1 Australia" tvg-name="Bein Sports 1 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1Australia.png" group-title="Sports",Bein Sports 1 Australia
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30975
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30975
 #EXTINF:-1 tvg-id="Bein Sports 2 Australia" tvg-name="Bein Sports 2 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2Australia.png" group-title="Sports",Bein Sports 2 Australia
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30974
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30974
 #EXTINF:-1 tvg-id="Bein Sports 3 Australia" tvg-name="Bein Sports 3 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3Australia.png" group-title="Sports",Bein Sports 3 Australia
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/30973
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30973
 #EXTINF:-1 tvg-id="Bein Sport News HD Arabic" tvg-name="Bein Sport News HD Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportNewsHDArabic.png" group-title="Sports",Bein Sport News HD Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/285
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/285
 #EXTINF:-1 tvg-id="Bein Sport 1 Arabic" tvg-name="Bein Sport 1 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport1Arabic.png" group-title="Sports",Bein Sport 1 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13800
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13800
 #EXTINF:-1 tvg-id="Bein Sport 2 Arabic" tvg-name="Bein Sport 2 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport2Arabic.png" group-title="Sports",Bein Sport 2 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13799
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13799
 #EXTINF:-1 tvg-id="Bein Sport 3 Arabic" tvg-name="Bein Sport 3 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport3Arabic.png" group-title="Sports",Bein Sport 3 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13798
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13798
 #EXTINF:-1 tvg-id="Bein Sport 4 Arabic" tvg-name="Bein Sport 4 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport4Arabic.png" group-title="Sports",Bein Sport 4 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13797
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13797
 #EXTINF:-1 tvg-id="Bein Sport 5 Arabic" tvg-name="Bein Sport 5 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport5Arabic.png" group-title="Sports",Bein Sport 5 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13796
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13796
 #EXTINF:-1 tvg-id="Bein Sport 6 Arabic" tvg-name="Bein Sport 6 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport6Arabic.png" group-title="Sports",Bein Sport 6 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13795
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13795
 #EXTINF:-1 tvg-id="Bein Sport 7 Arabic" tvg-name="Bein Sport 7 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport7Arabic.png" group-title="Sports",Bein Sport 7 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13794
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13794
 #EXTINF:-1 tvg-id="Bein Sport 8 Arabic" tvg-name="Bein Sport 8 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport8Arabic.png" group-title="Sports",Bein Sport 8 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13793
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13793
 #EXTINF:-1 tvg-id="Bein Sport 9 Arabic" tvg-name="Bein Sport 9 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport9Arabic.png" group-title="Sports",Bein Sport 9 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13792
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13792
 #EXTINF:-1 tvg-id="Bein Sport 10 Arabic" tvg-name="Bein Sport 10 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport10Arabic.png" group-title="Sports",Bein Sport 10 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13791
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13791
 #EXTINF:-1 tvg-id="Bein Sport 11 Arabic" tvg-name="Bein Sport 11 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport11Arabic.png" group-title="Sports",Bein Sport 11 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13660
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13660
 #EXTINF:-1 tvg-id="Bein Sport 12 Arabic" tvg-name="Bein Sport 12 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport12Arabic.png" group-title="Sports",Bein Sport 12 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/13661
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13661
 #EXTINF:-1 tvg-id="Bein Sport 13 Arabic" tvg-name="Bein Sport 13 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport13Arabic.png" group-title="Sports",Bein Sport 13 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18785
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18785
 #EXTINF:-1 tvg-id="Bein Sport 14 Arabic" tvg-name="Bein Sport 14 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport14Arabic.png" group-title="Sports",Bein Sport 14 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18824
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18824
 #EXTINF:-1 tvg-id="Bein Sport 15 Arabic" tvg-name="Bein Sport 15 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport15Arabic.png" group-title="Sports",Bein Sport 15 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18825
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18825
 #EXTINF:-1 tvg-id="Bein Sport 16 Arabic" tvg-name="Bein Sport 16 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport16Arabic.png" group-title="Sports",Bein Sport 16 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18826
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18826
 #EXTINF:-1 tvg-id="Bein Sport 17 Arabic" tvg-name="Bein Sport 17 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport17Arabic.png" group-title="Sports",Bein Sport 17 Arabic
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/18827
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18827
 #EXTINF:-1 tvg-id="Bein Sports Haber Turkey" tvg-name="Bein Sports Haber Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsHaberTurkey.png" group-title="Sports",Bein Sports Haber Turkey
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/14792
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/14792
 #EXTINF:-1 tvg-id="Bein Sports 1 Turkey" tvg-name="Bein Sports 1 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1Turkey.png" group-title="Sports",Bein Sports 1 Turkey
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/25955
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/25955
 #EXTINF:-1 tvg-id="Bein Sports 2 Turkey" tvg-name="Bein Sports 2 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2Turkey.png" group-title="Sports",Bein Sports 2 Turkey
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/25954
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/25954
 #EXTINF:-1 tvg-id="Bein Sports 3 Turkey" tvg-name="Bein Sports 3 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3Turkey.png" group-title="Sports",Bein Sports 3 Turkey
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/25953
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/25953
 #EXTINF:-1 tvg-id="Bein Sports 4 Turkey" tvg-name="Bein Sports 4 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports4Turkey.png" group-title="Sports",Bein Sports 4 Turkey
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/25952
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/25952
 #EXTINF:-1 tvg-id="Bein Sport MAX 1 Turkey" tvg-name="Bein Sport MAX 1 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportMAX1Turkey.png" group-title="Sports",Bein Sport MAX 1 Turkey
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/9592
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/9592
 #EXTINF:-1 tvg-id="Bein Sport MAX 2 Turkey" tvg-name="Bein Sport MAX 2 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportMAX2Turkey.png" group-title="Sports",Bein Sport MAX 2 Turkey
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/9591
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/9591
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TSN1.png" group-title="Sports",TSN 1
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22696
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22696
 #EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TSN2.png" group-title="Sports",TSN 2
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22695
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22695
 #EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TSN3.png" group-title="Sports",TSN 3
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22694
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22694
 #EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TSN4.png" group-title="Sports",TSN 4
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22693
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22693
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TSN5.png" group-title="Sports",TSN 5
-tp://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/22692
+tp://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22692
 #EXTINF:-1 tvg-id="BT Sports 1" tvg-name="BT Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports1.png" group-title="Sports",BT Sports 1
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/8178
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8178
 #EXTINF:-1 tvg-id="BT Sports 2" tvg-name="BT Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports2.png" group-title="Sports",BT Sports 2
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="BT Sports 3" tvg-name="BT Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports3.png" group-title="Sports",BT Sports 3
-http://dragoniptv.club:8080/EVQk9E2sTh/cr5Vhz2Ew2/8180
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8180
 #EXTINF:-1 tvg-id="BT Sports ESPN" tvg-name="BT Sports ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSportsESPN.png" group-title="Sports",BT Sports ESPN
 https://sportbar.biz/lba/123/g7/btse.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/AbuDhabiSports1.png" group-title="Sports",Abu Dhabi Sports 1
