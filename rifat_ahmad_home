@@ -88,7 +88,7 @@ http://103.121.36.238:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="Jalsha Movies" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/JalshaMovies.png" group-title="Kolkata Bangla",Jalsha Movies
 http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBangla.png" group-title="Kolkata Bangla",Zee Bangla
-http://103.111.120.46/hls/Zee_Bangla.m3u8
+https://triangle.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
