@@ -4,7 +4,7 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/asian%20tv.png" group-title="Bangladesh",Asian TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/atn%20bangla.png" group-title="Bangladesh",ATN Bangla
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/3419
+http://103.121.36.238:8081/live/atnbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ATN%20News.png" group-title="Bangladesh",ATN News
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/bangla%20tv.png" group-title="Bangladesh",Bangla TV
