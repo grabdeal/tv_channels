@@ -157,8 +157,28 @@ http://27.147.156.14:1935/Star_Sports_First/Star_Sports_First.stream/playlist.m3
 http://103.121.36.238:8081/live/select1/chunks.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/12049
+#EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportAction.png" group-title="Sports",Sky Sport Action
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30348
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportArena.png" group-title="Sports",Sky Sport Arena
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30347
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportsCricket.png" group-title="Sports",Sky Sports Cricket
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportF1.png" group-title="Sports",Sky Sport F1
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30345
+#EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportFootball.png" group-title="Sports",Sky Sport Football
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30344
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportGolf.png" group-title="Sports",Sky Sport Golf
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30343
+#EXTINF:-1 tvg-id="Sky Sport Main Event" tvg-name="Sky Sport Main Event" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportMainEvent.png" group-title="Sports",Sky Sport Main Event
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30342
+#EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportMix.png" group-title="Sports",Sky Sport Mix
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30339
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportNews.png" group-title="Sports",Sky Sport News
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30338
+#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportPremierLeague.png" group-title="Sports",Sky Sport Premier League
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30341
+#EXTINF:-1 tvg-id="Sky Sport Racing" tvg-name="Sky Sport Racing" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportRacing.png" group-title="Sports",Sky Sport Racing
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30340
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenCricket.png" group-title="Sports",Ten Cricket
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1 tvg-id="Willow" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/Willow.png" group-title="Sports",Willow
