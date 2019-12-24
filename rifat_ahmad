@@ -24,7 +24,7 @@ http://103.118.76.229:1935/tvprogram/CHANNEL-9/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%2024.png" group-title="Bangladesh",Channel 24
 http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%20i.png" group-title="Bangladesh",Channel i
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+http://103.121.36.238:8081/live/channeli/chunks.m3u8
 #EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Channel%20S.png" group-title="Bangladesh",Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/DBC%20News.png" group-title="Bangladesh",DBC News
