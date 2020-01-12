@@ -102,7 +102,7 @@ http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Religion",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-id="Azan TV" tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Religion",Azan TV
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/chunks.m3u8
+https://bds.jagobd.com:444/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Makka TV" tvg-name="Makka TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MakkaTV" group-title="Religion",Makka TV
 http://m.live.net.sa:1935/live/quran/chunklist_w2057676413.m3u8
 #EXTINF:-1 tvg-id="Madani Channel" tvg-name="Madani TV English" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion",Madani Channel
@@ -369,6 +369,8 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ktvbangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Music Fatafati" tvg-name="Music Fatafati" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MusicFatafati.png" group-title="Music",Music Fatafati
 http://209.126.117.64:1935/local/mf/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV Music" tvg-name="RTV Music" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/RTVMusic.png" group-title="Music",RTV Music
+http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Sangeet Bangla" tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/SangeetBangla.png" group-title="Music",Sangeet Bangla
 http://103.121.36.238:8081/live/sangeetbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="51" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/51.png" group-title="Music",51
