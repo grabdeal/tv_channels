@@ -48,7 +48,7 @@ http://103.121.36.238:8081/live/independent/playlist.m3u8
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/jamuna%20tv.png" group-title="Bangladesh",Jamuna TV
 http://103.118.76.229:1935/tvprogram/JAMUNA-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Maasranga" tvg-name="Maasranga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/maasranga.png" group-title="Bangladesh",Maasranga
-http://103.118.76.229:1935/tvprogram/MAASRANGA-MOBILE/playlist.m3u8
+http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1 tvg-id="Mohona TV" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/mohona%20tv.png" group-title="Bangladesh",Mohona TV
 http://42.0.6.130/hls/vbD0JnHMvBTfUQ6Y7Mlxag/1576663234/mohona_tv_hi/index.m3u8
 #EXTINF:-1 tvg-id="My TV" tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/MyTV.png" group-title="Bangladesh",My TV
