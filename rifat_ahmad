@@ -70,7 +70,7 @@ http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-id="NRB Connect" tvg-name="NRB Connect" tvg-logo="" group-title="Bangladesh",NRB Connect
 http://vod.beeiptv.com:8081/NRB/nrbconnect/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/RTV.png" group-title="Bangladesh",RTV
-https://tempasn.jagobd.com:444/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+http://103.121.36.238:8081/live/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SATV.png" group-title="Bangladesh",SATV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SomoyTV.png" group-title="Bangladesh",Somoy TV
@@ -154,7 +154,7 @@ http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-id="Star Sports First" tvg-name="Star Sports First" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsFirst.png" group-title="Sports",Star Sports First
 http://27.147.156.14:1935/Star_Sports_First/Star_Sports_First.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
-http://103.118.76.229:1935/ tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
 http://103.121.36.238:8081/live/select2/chunks.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportAction.png" group-title="Sports",Sky Sport Action
