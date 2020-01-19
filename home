@@ -10,7 +10,7 @@ http://10.16.100.203:8082/bangla/atnnewslondon.m3u8
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/bangla%20tv.png" group-title="Bangladesh",Bangla TV
 http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
 #EXTINF:-1 tvg-id="Bangla Vision" tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/bangla%20vision.png" group-title="Bangladesh",Bangla Vision
-http://bdiptv.net:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=0131120225fca05ed90d160b6e368d59b0955454-2a80abf09168a3b6c266a3721f537ae4-1579353473-1579342673
+http://bdiptv.net:8080/BanglaVision/index.m3u8?token=f42b96b000227a3206d46d665af27cc53c60afb3-4ae7acac17734b8de5d1d91d76faa6fb-1579474814-1579464014
 #EXTINF:-1 tvg-id="Bijoy TV" tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Bijoy.png" group-title="Bangladesh",Bijoy TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Boishakhi.png" group-title="Bangladesh",Boishakhi TV
@@ -70,7 +70,7 @@ http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/RTV.png" group-title="Bangladesh",RTV
 http://10.16.100.203:8082/bangla/rtv.m3u8
 #EXTINF:-1 tvg-id="Ruposhi Bangla" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="Bangladesh",Ruposhi Bangla
-http://bdiptv.net:8080/RuposhiBangla/tracks-v1a1/mono.m3u8?token=227009abad42b607c5bfc5fa47d547634fbe57c3-4aee8da7723ae2eb489cc9cd3546abdc-1579352668-1579341868
+http://bdiptv.net:8080/RuposhiBangla/index.m3u8?token=9400b4a124556f6b1af892e2a003e8e9213308c4-c7bebc254e706cc359843d8d9b504ccb-1579474767-1579463967
 #EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SATV.png" group-title="Bangladesh",SATV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SomoyTV.png" group-title="Bangladesh",Somoy TV
@@ -148,15 +148,15 @@ https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
 http://10.16.100.207:8082/sports/sony_ESPN_hd.m3u8
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports1.png" group-title="Sports",Star Sports 1
-http://bdiptv.net:8080/StarSports1HD/tracks-v1a1/mono.m3u8?token=926571abf4d65475d3ddaa09ef84833b9e6a53ad-08acf475417185ec93a8d2edc424553a-1579350287-1579339487
+http://bdiptv.net:8080/StarSports1HD/index.m3u8?token=a0c62c7ac37fc2f2fbacafe82bd18d96968c0180-6b7c8bcc2f307c54457b2744c10d4b90-1579474701-1579463901
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports2.png" group-title="Sports",Star Sports 2
-http://bdiptv.net:8080/StarSports2HD/tracks-v1a1/mono.m3u8?token=4175931a40cec858aa6be059dd4ccf86c4bed61b-b077486017f2e440caeb95942aad88a1-1579352209-1579341409
+http://bdiptv.net:8080/StarSports2HD/index.m3u8?token=8b235fdbaaec80bae38a5bbef6ff9db6ab0b5e21-8705d27aa74bb45367bd92aaa4545093-1579474722-1579463922
 #EXTINF:-1 tvg-id="Star Sports First" tvg-name="Star Sports First" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsFirst.png" group-title="Sports",Star Sports First
 http://27.147.156.14:1935/Star_Sports_First/Star_Sports_First.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
-http://bdiptv.net:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=f08e8c92b2aeef2ebcda7b0cac29fdd2ca847b39-d65f3c16f2bb1c41bac40b3114b9ea48-1579352456-1579341656
+http://bdiptv.net:8080/StarSportsSelect1/index.m3u8?token=08499cb0721bd3e6ffd79bbdb2e5c3f7ca6aae32-7b9fe3ed424171843f6c584df346bbe4-1579474509-1579463709
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
-http://bdiptv.net:8080/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=c664ff17bc7666b7cf61e9b14aa403b96a1ae48e-417920c9a8a6764dd851cf314c8ff872-1579352522-1579341722
+http://bdiptv.net:8080/StarSportsSelect2/index.m3u8?token=22333d0f39d9542cfc62719dcbe49a0bd98a36f0-41bcb121c31012f63ae29e85429ba193-1579474663-1579463863
 #EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportAction.png" group-title="Sports",Sky Sport Action
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30348
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportArena.png" group-title="Sports",Sky Sport Arena
