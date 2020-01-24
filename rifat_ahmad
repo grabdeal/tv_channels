@@ -20,33 +20,33 @@ https://rebrand.ly/BangladeshTelevision
 #EXTINF:-1 tvg-id="BTV World" tvg-name="BTV World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BTV%20World.png" group-title="Bangladesh",BTV World
 https://rebrand.ly/BTVWorld
 #EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%209.png" group-title="Bangladesh",Channel 9
-http://103.118.76.229:1935/tvprogram/CHANNEL-9/playlist.m3u8
+https://rebrand.ly/Channel9
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%2024.png" group-title="Bangladesh",Channel 24
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+https://rebrand.ly/Channel24
 #EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%20i.png" group-title="Bangladesh",Channel i
-http://103.121.36.238:8081/live/channeli/chunks.m3u8
+https://rebrand.ly/Channeli
 #EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Channel%20S.png" group-title="Bangladesh",Channel S
-https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
+https://rebrand.ly/ChannelSUK
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/DBC%20News.png" group-title="Bangladesh",DBC News
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Deepto%20TV.png" group-title="Bangladesh",Deepto TV
-http://103.121.36.238:8081/live/deepto/chunks.m3u8
+https://rebrand.ly/DeeptoTV
 #EXTINF:-1 tvg-id="Desh TV" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Desh%20TV.png" group-title="Bangladesh",Desh TV
-https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
+https://rebrand.ly/DeshTV
 #EXTINF:-1 tvg-id="Digi Bangla" tvg-name="Digi Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Digi%20Bangla.png" group-title="Bangladesh",Digi Bangla
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/digibangla.stream/chunks.m3u8
+https://rebrand.ly/DigiBangla
 #EXTINF:-1 tvg-id="Duronto TV" tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Duronto.png" group-title="Bangladesh",Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+https://rebrand.ly/DurontoTV
 #EXTINF:-1 tvg-id="Ekattor TV" tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekattor.png" group-title="Bangladesh",Ekattor TV
-http://103.121.36.238:8081/live/ekattor-bd/chunks.m3u8
+https://rebrand.ly/EkattorTV
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekushe.png" group-title="Bangladesh",Ekushe TV
-http://103.121.36.238:8081/live/ekushey/chunks.m3u8
+https://rebrand.ly/EkusheTV
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Bangladesh",Gazi TV
-http://103.118.76.234:1935/tvprogram/GAZI-TV/chunklist.m3u8
+https://rebrand.ly/GaziTV
 #EXTINF:-1 tvg-id="Independent TV" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Independent.png" group-title="Bangladesh",Independent TV
-http://103.121.36.238:8081/live/independent/playlist.m3u8
+https://rebrand.ly/IndependentTV
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/jamuna%20tv.png" group-title="Bangladesh",Jamuna TV
-http://103.118.76.229:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+https://rebrand.ly/JamunaTV
 #EXTINF:-1 tvg-id="Maasranga" tvg-name="Maasranga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/maasranga.png" group-title="Bangladesh",Maasranga
 http://103.121.36.238:8081/live/maasranga/playlist.m3u8
 #EXTINF:-1 tvg-id="Mohona TV" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/mohona%20tv.png" group-title="Bangladesh",Mohona TV
@@ -88,7 +88,7 @@ http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1 tvg-id="Jalsha Movies" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/JalshaMovies.png" group-title="Kolkata Bangla",Jalsha Movies
 http://103.58.73.26/streams/115/index.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBangla.png" group-title="Kolkata Bangla",Zee Bangla
-http://103.118.76.234:1935/tvprogram/ZEE-BANGLA/chunklist.m3u8
+https://rebrand.ly/ZeeBangla
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
