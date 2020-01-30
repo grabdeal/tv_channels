@@ -151,6 +151,8 @@ https://rebrand.ly/SonyESPN
 https://rebrand.ly/StarSports1
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports2.png" group-title="Sports",Star Sports 2
 https://rebrand.ly/StarSports2
+#EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports3.png" group-title="Sports",Star Sports 3
+https://rebrand.ly/StarSports3
 #EXTINF:-1 tvg-id="Star Sports First" tvg-name="Star Sports First" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsFirst.png" group-title="Sports",Star Sports First
 https://rebrand.ly/StarSportsFirst
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
