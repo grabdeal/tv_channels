@@ -52,7 +52,7 @@ http://10.16.100.203:8082/bangla/MAASRANGATV.m3u8
 #EXTINF:-1 tvg-id="Mohona TV" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/mohona%20tv.png" group-title="Bangladesh",Mohona TV
 http://10.16.100.203:8082/bangla/mohonatv.m3u8
 #EXTINF:-1 tvg-id="My TV" tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/MyTV.png" group-title="Bangladesh",My TV
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+http://10.16.100.203:8082/bangla/mytv.m3u8
 #EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/MyCinema.png" group-title="Bangladesh",My Cinema
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NTV.png" group-title="Bangladesh",NTV
