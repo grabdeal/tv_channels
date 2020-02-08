@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Ananda%20TV.png" group-title="Bangladesh",Ananda TV
-https://rebrand.ly/AnandaTV
+http://grabdeal.xyz/livetv/Anandatv
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/asian%20tv.png" group-title="Bangladesh",Asian TV
 http://10.16.100.203:8082/bangla/asian.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/atn%20bangla.png" group-title="Bangladesh",ATN Bangla
