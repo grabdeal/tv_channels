@@ -161,30 +161,28 @@ http://grabdeal.xyz/livetv/StarSportsSelect1
 http://grabdeal.xyz/livetv/StarSportsSelect2
 #EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportAction.png" group-title="Sports",Sky Sport Action
 http://grabdeal.xyz/livetv/SkySportsAction
-#EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportAction.png" group-title="Sports",Sky Sport Action
-https://rebrand.ly/SkySportsAction
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportArena.png" group-title="Sports",Sky Sport Arena
-https://rebrand.ly/SkySportsArena
+http://grabdeal.xyz/livetv/SkySportsArena
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportsCricket.png" group-title="Sports",Sky Sports Cricket
-https://rebrand.ly/SkySportsCricket
+http://grabdeal.xyz/livetv/skysportscricket
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportF1.png" group-title="Sports",Sky Sport F1
-https://rebrand.ly/SkySportsF1
+http://grabdeal.xyz/livetv/SkySportsF1
 #EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportFootball.png" group-title="Sports",Sky Sport Football
-https://rebrand.ly/SkySportsFootball
+http://grabdeal.xyz/livetv/SkySportsFootball
 #EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportGolf.png" group-title="Sports",Sky Sport Golf
-https://rebrand.ly/SkySportsGolf
+http://grabdeal.xyz/livetv/SkySportsGolf
 #EXTINF:-1 tvg-id="Sky Sport Main Event" tvg-name="Sky Sport Main Event" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportMainEvent.png" group-title="Sports",Sky Sport Main Event
-https://rebrand.ly/SkySportsMainEvent
+http://grabdeal.xyz/livetv/skysportsmainevent
 #EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportMix.png" group-title="Sports",Sky Sport Mix
-https://rebrand.ly/SkySportsMix
+http://grabdeal.xyz/livetv/SkySportsMix
 #EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportNews.png" group-title="Sports",Sky Sport News
-https://rebrand.ly/SkySportsNews
+http://grabdeal.xyz/livetv/SkySportsNews
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportPremierLeague.png" group-title="Sports",Sky Sport Premier League
-https://rebrand.ly/SkySportsPremierLeague
+http://grabdeal.xyz/livetv/SkySportsPremierLeague
 #EXTINF:-1 tvg-id="Ten Sports" tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenSports.png" group-title="Sports",Ten Sports
-https://rebrand.ly/TenSports
+http://grabdeal.xyz/livetv/TenSports
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenCricket.png" group-title="Sports",Ten Cricket
-https://rebrand.ly/TenCricket
+http://grabdeal.xyz/livetv/TenCricket
 #EXTINF:-1 tvg-id="Willow" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/Willow.png" group-title="Sports",Willow
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/9958
 #EXTINF:-1 tvg-id="Bein Sports La Liga" tvg-name="Bein Sports La Liga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsLaLiga.png" group-title="Sports",Bein Sports La Liga
@@ -218,37 +216,37 @@ http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30973
 #EXTINF:-1 tvg-id="Bein Sport News HD Arabic" tvg-name="Bein Sport News HD Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportNewsHDArabic.png" group-title="Sports",Bein Sport News HD Arabic
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/285
 #EXTINF:-1 tvg-id="Bein Sport 1 Arabic" tvg-name="Bein Sport 1 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport1Arabic.png" group-title="Sports",Bein Sport 1 Arabic
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+http://grabdeal.xyz/livetv/arbeinport1
 #EXTINF:-1 tvg-id="Bein Sport 2 Arabic" tvg-name="Bein Sport 2 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport2Arabic.png" group-title="Sports",Bein Sport 2 Arabic
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+http://grabdeal.xyz/livetv/arbeinport2
 #EXTINF:-1 tvg-id="Bein Sport 3 Arabic" tvg-name="Bein Sport 3 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport3Arabic.png" group-title="Sports",Bein Sport 3 Arabic
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+http://grabdeal.xyz/livetv/arbeinport3
 #EXTINF:-1 tvg-id="Bein Sport 4 Arabic" tvg-name="Bein Sport 4 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport4Arabic.png" group-title="Sports",Bein Sport 4 Arabic
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+http://grabdeal.xyz/livetv/arbeinsport4
 #EXTINF:-1 tvg-id="Bein Sport 5 Arabic" tvg-name="Bein Sport 5 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport5Arabic.png" group-title="Sports",Bein Sport 5 Arabic
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+http://grabdeal.xyz/livetv/arbeinsport5
 #EXTINF:-1 tvg-id="Bein Sport 6 Arabic" tvg-name="Bein Sport 6 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport6Arabic.png" group-title="Sports",Bein Sport 6 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13795
+http://grabdeal.xyz/livetv/arbeinsport6
 #EXTINF:-1 tvg-id="Bein Sport 7 Arabic" tvg-name="Bein Sport 7 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport7Arabic.png" group-title="Sports",Bein Sport 7 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13794
+http://grabdeal.xyz/livetv/arbeinsport7
 #EXTINF:-1 tvg-id="Bein Sport 8 Arabic" tvg-name="Bein Sport 8 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport8Arabic.png" group-title="Sports",Bein Sport 8 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13793
+http://grabdeal.xyz/livetv/arbeinsport8
 #EXTINF:-1 tvg-id="Bein Sport 9 Arabic" tvg-name="Bein Sport 9 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport9Arabic.png" group-title="Sports",Bein Sport 9 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13792
+http://grabdeal.xyz/livetv/arbeinsport9
 #EXTINF:-1 tvg-id="Bein Sport 10 Arabic" tvg-name="Bein Sport 10 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport10Arabic.png" group-title="Sports",Bein Sport 10 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13791
+http://grabdeal.xyz/livetv/arbeinsport10
 #EXTINF:-1 tvg-id="Bein Sport 11 Arabic" tvg-name="Bein Sport 11 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport11Arabic.png" group-title="Sports",Bein Sport 11 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13660
+http://grabdeal.xyz/livetv/arbeinsport11
 #EXTINF:-1 tvg-id="Bein Sport 12 Arabic" tvg-name="Bein Sport 12 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport12Arabic.png" group-title="Sports",Bein Sport 12 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/13661
+http://grabdeal.xyz/livetv/arbeinsport12
 #EXTINF:-1 tvg-id="Bein Sport 13 Arabic" tvg-name="Bein Sport 13 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport13Arabic.png" group-title="Sports",Bein Sport 13 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18785
+http://grabdeal.xyz/livetv/arbeinsport13
 #EXTINF:-1 tvg-id="Bein Sport 14 Arabic" tvg-name="Bein Sport 14 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport14Arabic.png" group-title="Sports",Bein Sport 14 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18824
+http://grabdeal.xyz/livetv/arbeinsport14
 #EXTINF:-1 tvg-id="Bein Sport 15 Arabic" tvg-name="Bein Sport 15 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport15Arabic.png" group-title="Sports",Bein Sport 15 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18825
+http://grabdeal.xyz/livetv/arbeinsport15
 #EXTINF:-1 tvg-id="Bein Sport 16 Arabic" tvg-name="Bein Sport 16 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport16Arabic.png" group-title="Sports",Bein Sport 16 Arabic
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18826
+http://grabdeal.xyz/livetv/arbeinsport16
 #EXTINF:-1 tvg-id="Bein Sport 17 Arabic" tvg-name="Bein Sport 17 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport17Arabic.png" group-title="Sports",Bein Sport 17 Arabic
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18827
 #EXTINF:-1 tvg-id="Bein Sports Haber Turkey" tvg-name="Bein Sports Haber Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsHaberTurkey.png" group-title="Sports",Bein Sports Haber Turkey
