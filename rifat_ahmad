@@ -138,47 +138,47 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="RT Documentary" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/RTDocumentary.png" group-title="Infotainment",RT Documentary
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports",Sony Ten 1
-http://grabdeal.xyz/livetv/SonyTen1
+http://grabdeal.xyz/livetv/sonyten1
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2.png" group-title="Sports",Sony Ten 2
-http://grabdeal.xyz/livetv/SonyTen2
+http://grabdeal.xyz/livetv/sonyten2
 #EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen3.png" group-title="Sports",Sony Ten 3
-http://grabdeal.xyz/livetv/SonyTen3
+http://grabdeal.xyz/livetv/sonyten3
 #EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonySix.png" group-title="Sports",Sony Six
-http://grabdeal.xyz/livetv/SonySix
+http://grabdeal.xyz/livetv/sonysix
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
-http://grabdeal.xyz/livetv/SonyESPN
+http://grabdeal.xyz/livetv/sonyespn
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports1.png" group-title="Sports",Star Sports 1
-http://grabdeal.xyz/livetv/StarSports1
+http://grabdeal.xyz/livetv/starsports1
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports2.png" group-title="Sports",Star Sports 2
-http://grabdeal.xyz/livetv/StarSports2
+http://grabdeal.xyz/livetv/starsports2
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports3.png" group-title="Sports",Star Sports 3
-http://grabdeal.xyz/livetv/StarSports3
+http://grabdeal.xyz/livetv/starsports3
 #EXTINF:-1 tvg-id="Star Sports First" tvg-name="Star Sports First" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsFirst.png" group-title="Sports",Star Sports First
-http://grabdeal.xyz/livetv/StarSportsFirst
+http://grabdeal.xyz/livetv/starsportsfirst
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
-http://grabdeal.xyz/livetv/StarSportsSelect1
+http://grabdeal.xyz/livetv/starsportsselect1
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
-http://grabdeal.xyz/livetv/StarSportsSelect2
+http://grabdeal.xyz/livetv/starsportsselect2
 #EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportAction.png" group-title="Sports",Sky Sport Action
-http://grabdeal.xyz/livetv/SkySportsAction
+http://grabdeal.xyz/livetv/skysportsaction
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportArena.png" group-title="Sports",Sky Sport Arena
-http://grabdeal.xyz/livetv/SkySportsArena
+http://grabdeal.xyz/livetv/skysportsarena
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportsCricket.png" group-title="Sports",Sky Sports Cricket
 http://grabdeal.xyz/livetv/skysportscricket
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportF1.png" group-title="Sports",Sky Sport F1
-http://grabdeal.xyz/livetv/SkySportsF1
+http://grabdeal.xyz/livetv/skysportsf1
 #EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportFootball.png" group-title="Sports",Sky Sport Football
-http://grabdeal.xyz/livetv/SkySportsFootball
+http://grabdeal.xyz/livetv/skysportsfootball
 #EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportGolf.png" group-title="Sports",Sky Sport Golf
-http://grabdeal.xyz/livetv/SkySportsGolf
+http://grabdeal.xyz/livetv/skysportsgolf
 #EXTINF:-1 tvg-id="Sky Sport Main Event" tvg-name="Sky Sport Main Event" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportMainEvent.png" group-title="Sports",Sky Sport Main Event
 http://grabdeal.xyz/livetv/skysportsmainevent
 #EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportMix.png" group-title="Sports",Sky Sport Mix
-http://grabdeal.xyz/livetv/SkySportsMix
+http://grabdeal.xyz/livetv/skysportsmix
 #EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportNews.png" group-title="Sports",Sky Sport News
-http://grabdeal.xyz/livetv/SkySportsNews
+http://grabdeal.xyz/livetv/skysportsnews
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportPremierLeague.png" group-title="Sports",Sky Sport Premier League
-http://grabdeal.xyz/livetv/SkySportsPremierLeague
+http://grabdeal.xyz/livetv/skysportspremierleague
 #EXTINF:-1 tvg-id="Ten Sports" tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenSports.png" group-title="Sports",Ten Sports
 http://grabdeal.xyz/livetv/TenSports
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenCricket.png" group-title="Sports",Ten Cricket
