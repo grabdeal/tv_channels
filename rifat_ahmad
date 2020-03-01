@@ -158,8 +158,7 @@ http://grabdeal.xyz/livetv/sonysix
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
 http://grabdeal.xyz/livetv/sonyespn
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports1.png" group-title="Sports",Star Sports 1
-http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
-#http://grabdeal.xyz/livetv/starsports1
+http://grabdeal.xyz/livetv/starsports1
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports2.png" group-title="Sports",Star Sports 2
 http://grabdeal.xyz/livetv/starsports2
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports3.png" group-title="Sports",Star Sports 3
