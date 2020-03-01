@@ -3,18 +3,23 @@
 http://grabdeal.xyz/livetv/anandatv
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/asian%20tv.png" group-title="Bangladesh",Asian TV
 http://grabdeal.xyz/livetv/asiantv
+#http://grabdeal.xyz/livetv/asiantvalt
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/atn%20bangla.png" group-title="Bangladesh",ATN Bangla
 http://grabdeal.xyz/livetv/atnbangla
+#http://grabdeal.xyz/livetv/atnbanglaalt
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ATN%20News.png" group-title="Bangladesh",ATN News
 http://grabdeal.xyz/livetv/atnnews
+#http://grabdeal.xyz/livetv/atnnewsalt
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/bangla%20tv.png" group-title="Bangladesh",Bangla TV
 http://grabdeal.xyz/livetv/banglatv
 #EXTINF:-1 tvg-id="Bangla Vision" tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/bangla%20vision.png" group-title="Bangladesh",Bangla Vision
 http://grabdeal.xyz/livetv/banglavision
+#http://grabdeal.xyz/livetv/banglavisionalt
 #EXTINF:-1 tvg-id="Bijoy TV" tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Bijoy.png" group-title="Bangladesh",Bijoy TV
 http://grabdeal.xyz/livetv/bijoytv
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Boishakhi.png" group-title="Bangladesh",Boishakhi TV
 http://grabdeal.xyz/livetv/boishakhitv
+#http://grabdeal.xyz/livetv/boishakhitvalt
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BTV.png" group-title="Bangladesh",BTV
 http://grabdeal.xyz/livetv/btv
 #EXTINF:-1 tvg-id="BTV World" tvg-name="BTV World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BTV%20World.png" group-title="Bangladesh",BTV World
@@ -25,7 +30,7 @@ http://grabdeal.xyz/livetv/channel9
 http://grabdeal.xyz/livetv/channel24
 #EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%20i.png" group-title="Bangladesh",Channel i
 http://grabdeal.xyz/livetv/channeli
-#http://grabdeal.xyz/livetv/channelialt1
+#http://grabdeal.xyz/livetv/channelialt
 #EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Channel%20S.png" group-title="Bangladesh",Channel S
 http://grabdeal.xyz/livetv/channelsuk
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/DBC%20News.png" group-title="Bangladesh",DBC News
@@ -44,6 +49,7 @@ http://grabdeal.xyz/livetv/ekattortv
 http://grabdeal.xyz/livetv/ekushetv
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Bangladesh",Gazi TV
 http://grabdeal.xyz/livetv/gazitv
+#http://grabdeal.xyz/livetv/gazitvalt
 #EXTINF:-1 tvg-id="Independent TV" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Independent.png" group-title="Bangladesh",Independent TV
 http://grabdeal.xyz/livetv/independenttv
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/jamuna%20tv.png" group-title="Bangladesh",Jamuna TV
@@ -72,7 +78,7 @@ http://grabdeal.xyz/livetv/nrbtv
 http://grabdeal.xyz/livetv/nrbconnect
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/RTV.png" group-title="Bangladesh",RTV
 http://grabdeal.xyz/livetv/rtv
-#http://grabdeal.xyz/livetv/rtvalt1
+#http://grabdeal.xyz/livetv/rtvalt
 #EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SATV.png" group-title="Bangladesh",SATV
 http://grabdeal.xyz/livetv/satv
 #EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SomoyTV.png" group-title="Bangladesh",Somoy TV
@@ -91,7 +97,7 @@ https://grabdeal.xyz/livetv/starjalsha
 https://grabdeal.xyz/livetv/jalshamovies
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBangla.png" group-title="Kolkata Bangla",Zee Bangla
 https://grabdeal.xyz/livetv/zeebangla
-#http://grabdeal.xyz/livetv/zeebanglaalt1
+#http://grabdeal.xyz/livetv/zeebanglaalt
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
 https://grabdeal.xyz/livetv/zeebanglacinema
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
