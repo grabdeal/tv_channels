@@ -85,7 +85,7 @@ http://grabdeal.xyz/livetv/satv
 #EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SomoyTV.png" group-title="Bangladesh",Somoy TV
 http://grabdeal.xyz/livetv/somoytvalt
 #http://grabdeal.xyz/livetv/somoytv
-http://grabdeal.xyz/livetv/somoytvalt
+#http://grabdeal.xyz/livetv/somoytvalt
 #EXTINF:-1 tvg-id="Sangshad Bangladesh" tvg-name="Sangshad Bangladesh" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/sangshad%20bangladesh.png" group-title="Bangladesh",Sangshad Bangladesh
 http://grabdeal.xyz/livetv/sangshadbangladesh
 #EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/AkashAath.png" group-title="Kolkata Bangla",Akash Aath
