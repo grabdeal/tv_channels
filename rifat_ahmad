@@ -48,8 +48,8 @@ http://grabdeal.xyz/livetv/ekattortv
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekushe.png" group-title="Bangladesh",Ekushe TV
 http://grabdeal.xyz/livetv/ekushetv
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Bangladesh",Gazi TV
-http://grabdeal.xyz/livetv/gazitvalt
-#http://grabdeal.xyz/livetv/gazitv
+http://grabdeal.xyz/livetv/gazitv
+#http://grabdeal.xyz/livetv/gazitvalt
 #http://grabdeal.xyz/livetv/gazitvalt2
 #EXTINF:-1 tvg-id="Independent TV" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Independent.png" group-title="Bangladesh",Independent TV
 http://grabdeal.xyz/livetv/independenttv
