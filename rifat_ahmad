@@ -173,8 +173,6 @@ http://grabdeal.xyz/livetv/starsportsselect2
 http://grabdeal.xyz/livetv/skysportsaction
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportArena.png" group-title="Sports",Sky Sport Arena
 http://grabdeal.xyz/livetv/skysportsarena
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Box Office" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportBoxOffice.png" group-title="Sports",Sky Sport Box Office
-http://grabdeal.xyz/livetv/skysportsboxoffice
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportsCricket.png" group-title="Sports",Sky Sports Cricket
 http://grabdeal.xyz/livetv/skysportscricket
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportF1.png" group-title="Sports",Sky Sport F1
