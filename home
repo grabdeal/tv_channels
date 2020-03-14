@@ -196,6 +196,8 @@ http://grabdeal.xyz/livetv/starsportsselect2
 http://grabdeal.xyz/livetv/skysportsaction
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportArena.png" group-title="Sports",Sky Sport Arena
 http://grabdeal.xyz/livetv/skysportsarena
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Box Office" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportBoxOffice.png" group-title="Sports",Sky Sport Box Office
+http://grabdeal.xyz/livetv/skysportsboxoffice
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportsCricket.png" group-title="Sports",Sky Sports Cricket
 http://grabdeal.xyz/livetv/skysportscricket
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportF1.png" group-title="Sports",Sky Sport F1
@@ -213,47 +215,47 @@ http://grabdeal.xyz/livetv/skysportsnews
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportPremierLeague.png" group-title="Sports",Sky Sport Premier League
 http://grabdeal.xyz/livetv/skysportspremierleague
 #EXTINF:-1 tvg-id="Ten Sports" tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenSports.png" group-title="Sports",Ten Sports
-http://grabdeal.xyz/livetv/TenSports
+http://grabdeal.xyz/livetv/tensports
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenCricket.png" group-title="Sports",Ten Cricket
 http://grabdeal.xyz/livetv/TenCricket
 #EXTINF:-1 tvg-id="Willow" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/Willow.png" group-title="Sports",Willow
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/9958
+http://grabdeal.xyz/livetv/willow
 #EXTINF:-1 tvg-id="Bein Sports La Liga" tvg-name="Bein Sports La Liga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsLaLiga.png" group-title="Sports",Bein Sports La Liga
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30991
+http://grabdeal.xyz/livetv/beinsportlaliga
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1.png" group-title="Sports",Bein Sports 1
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/28732
+http://grabdeal.xyz/livetv/beinsport1
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="Bein Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2.png" group-title="Sports",Bein Sports 2
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/28731
+http://grabdeal.xyz/livetv/beinsport2
 #EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="Bein Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3.png" group-title="Sports",Bein Sports 3
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/28730
+http://grabdeal.xyz/livetv/beinsport3
 #EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="Bein Sports 4" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports4.png" group-title="Sports",Bein Sports 4
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30740
+http://grabdeal.xyz/livetv/beinsport4
 #EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="Bein Sports 5" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports5.png" group-title="Sports",Bein Sports 5
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30741
+http://grabdeal.xyz/livetv/beinsport5
 #EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="Bein Sports 6" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports6.png" group-title="Sports",Bein Sports 6
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30742
+http://grabdeal.xyz/livetv/beinsport6
 #EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="Bein Sports 7" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports7.png" group-title="Sports",Bein Sports 7
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30743
+http://grabdeal.xyz/livetv/beinsport7
 #EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="Bein Sports 8" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports8.png" group-title="Sports",Bein Sports 8
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30744
+http://grabdeal.xyz/livetv/beinsport8
 #EXTINF:-1 tvg-id="Bein Sports USA" tvg-name="Bein Sports USA" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsUSA.png" group-title="Sports",Bein Sports USA
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/10696
+http://grabdeal.xyz/livetv/beinsportusa
 #EXTINF:-1 tvg-id="Bein Sports Canada" tvg-name="Bein Sports Canada" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsCanada.png" group-title="Sports",Bein Sports Canada
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30992
+http://grabdeal.xyz/livetv/beinsportca
 #EXTINF:-1 tvg-id="Bein Sports 1 Australia" tvg-name="Bein Sports 1 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1Australia.png" group-title="Sports",Bein Sports 1 Australia
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30975
+http://grabdeal.xyz/livetv/beinsportau1
 #EXTINF:-1 tvg-id="Bein Sports 2 Australia" tvg-name="Bein Sports 2 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2Australia.png" group-title="Sports",Bein Sports 2 Australia
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30974
+http://grabdeal.xyz/livetv/beinsportau2
 #EXTINF:-1 tvg-id="Bein Sports 3 Australia" tvg-name="Bein Sports 3 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3Australia.png" group-title="Sports",Bein Sports 3 Australia
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30973
+http://grabdeal.xyz/livetv/beinsportau3
 #EXTINF:-1 tvg-id="Bein Sport News HD Arabic" tvg-name="Bein Sport News HD Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportNewsHDArabic.png" group-title="Sports",Bein Sport News HD Arabic
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/285
 #EXTINF:-1 tvg-id="Bein Sport 1 Arabic" tvg-name="Bein Sport 1 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport1Arabic.png" group-title="Sports",Bein Sport 1 Arabic
-http://grabdeal.xyz/livetv/arbeinport1
+http://grabdeal.xyz/livetv/arbeinsport1
 #EXTINF:-1 tvg-id="Bein Sport 2 Arabic" tvg-name="Bein Sport 2 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport2Arabic.png" group-title="Sports",Bein Sport 2 Arabic
-http://grabdeal.xyz/livetv/arbeinport2
+http://grabdeal.xyz/livetv/arbeinsport2
 #EXTINF:-1 tvg-id="Bein Sport 3 Arabic" tvg-name="Bein Sport 3 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport3Arabic.png" group-title="Sports",Bein Sport 3 Arabic
-http://grabdeal.xyz/livetv/arbeinport3
+http://grabdeal.xyz/livetv/arbeinsport3
 #EXTINF:-1 tvg-id="Bein Sport 4 Arabic" tvg-name="Bein Sport 4 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport4Arabic.png" group-title="Sports",Bein Sport 4 Arabic
 http://grabdeal.xyz/livetv/arbeinsport4
 #EXTINF:-1 tvg-id="Bein Sport 5 Arabic" tvg-name="Bein Sport 5 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport5Arabic.png" group-title="Sports",Bein Sport 5 Arabic
@@ -283,15 +285,15 @@ http://grabdeal.xyz/livetv/arbeinsport16
 #EXTINF:-1 tvg-id="Bein Sport 17 Arabic" tvg-name="Bein Sport 17 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport17Arabic.png" group-title="Sports",Bein Sport 17 Arabic
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18827
 #EXTINF:-1 tvg-id="Bein Sports Haber Turkey" tvg-name="Bein Sports Haber Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsHaberTurkey.png" group-title="Sports",Bein Sports Haber Turkey
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/14792
+http://grabdeal.xyz/livetv/trbeinsporthaber
 #EXTINF:-1 tvg-id="Bein Sports 1 Turkey" tvg-name="Bein Sports 1 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1Turkey.png" group-title="Sports",Bein Sports 1 Turkey
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/25955
+http://grabdeal.xyz/livetv/trbeinsport1
 #EXTINF:-1 tvg-id="Bein Sports 2 Turkey" tvg-name="Bein Sports 2 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2Turkey.png" group-title="Sports",Bein Sports 2 Turkey
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/25954
+http://grabdeal.xyz/livetv/trbeinsport2
 #EXTINF:-1 tvg-id="Bein Sports 3 Turkey" tvg-name="Bein Sports 3 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3Turkey.png" group-title="Sports",Bein Sports 3 Turkey
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/25953
+http://grabdeal.xyz/livetv/trbeinsport3
 #EXTINF:-1 tvg-id="Bein Sports 4 Turkey" tvg-name="Bein Sports 4 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports4Turkey.png" group-title="Sports",Bein Sports 4 Turkey
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/25952
+http://grabdeal.xyz/livetv/trbeinsport4
 #EXTINF:-1 tvg-id="Bein Sport MAX 1 Turkey" tvg-name="Bein Sport MAX 1 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportMAX1Turkey.png" group-title="Sports",Bein Sport MAX 1 Turkey
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/9592
 #EXTINF:-1 tvg-id="Bein Sport MAX 2 Turkey" tvg-name="Bein Sport MAX 2 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportMAX2Turkey.png" group-title="Sports",Bein Sport MAX 2 Turkey
@@ -307,11 +309,11 @@ http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22693
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TSN5.png" group-title="Sports",TSN 5
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22692
 #EXTINF:-1 tvg-id="BT Sports 1" tvg-name="BT Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports1.png" group-title="Sports",BT Sports 1
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8178
+http://grabdeal.xyz/livetv/btsport1
 #EXTINF:-1 tvg-id="BT Sports 2" tvg-name="BT Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports2.png" group-title="Sports",BT Sports 2
-https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8?fluxustv.m3u8
+http://grabdeal.xyz/livetv/btsport2
 #EXTINF:-1 tvg-id="BT Sports 3" tvg-name="BT Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports3.png" group-title="Sports",BT Sports 3
-http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/8180
+http://grabdeal.xyz/livetv/btsport3
 #EXTINF:-1 tvg-id="BT Sports ESPN" tvg-name="BT Sports ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSportsESPN.png" group-title="Sports",BT Sports ESPN
 https://sportbar.biz/lba/123/g7/btse.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/AbuDhabiSports1.png" group-title="Sports",Abu Dhabi Sports 1
