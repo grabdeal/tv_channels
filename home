@@ -110,7 +110,8 @@ http://grabdeal.xyz/livetv/sangshadbangladesh
 http://10.16.100.203:8082/bangla/aakash_aath.m3u8
 #http://grabdeal.xyz/livetv/akashaath
 #EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
-https://grabdeal.xyz/livetv/colorsbangla
+http://10.16.100.203:8082/bangla/colorsbangla.m3u8
+#https://grabdeal.xyz/livetv/colorsbangla
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonyAath.png" group-title="Kolkata Bangla",Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath.m3u8
 #https://grabdeal.xyz/livetv/sonyaath
@@ -120,7 +121,7 @@ http://10.16.100.203:8082/bangla/STARJALSHA.m3u8
 #EXTINF:-1 tvg-id="Jalsha Movies" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/JalshaMovies.png" group-title="Kolkata Bangla",Jalsha Movies
 https://grabdeal.xyz/livetv/jalshamovies
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBangla.png" group-title="Kolkata Bangla",Zee Bangla
-http://10.16.100.203:8082/bangla/zeebangla_hd.m3u8
+http://10.16.100.203:8082/bangla/zbangla.m3u8
 #https://grabdeal.xyz/livetv/zeebangla
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
 https://grabdeal.xyz/livetv/zeebanglacinema
