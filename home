@@ -9,9 +9,7 @@ http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #http://grabdeal.xyz/livetv/atnbangla
 #http://grabdeal.xyz/livetv/atnbanglaalt
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ATN%20News.png" group-title="Bangladesh",ATN News
-http://10.16.100.203:8082/bangla/atnnewslondon.m3u8
-#http://grabdeal.xyz/livetv/atnnews
-#http://grabdeal.xyz/livetv/atnnewsalt
+http://grabdeal.xyz/livetv/atnnews
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/bangla%20tv.png" group-title="Bangladesh",Bangla TV
 http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
 #http://grabdeal.xyz/livetv/banglatv
@@ -32,8 +30,7 @@ http://grabdeal.xyz/livetv/btvworld
 http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
 #http://grabdeal.xyz/livetv/channel9
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%2024.png" group-title="Bangladesh",Channel 24
-http://10.16.100.203:8082/bangla/channel24.m3u8
-#http://grabdeal.xyz/livetv/channel24
+http://grabdeal.xyz/livetv/channel24
 #EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%20i.png" group-title="Bangladesh",Channel i
 http://10.16.100.203:8082/bangla/channeli.m3u8
 #http://grabdeal.xyz/livetv/channeli
@@ -41,16 +38,15 @@ http://10.16.100.203:8082/bangla/channeli.m3u8
 https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
 #http://grabdeal.xyz/livetv/channelsuk
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/DBC%20News.png" group-title="Bangladesh",DBC News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
-#https://grabdeal.xyz/livetv/dbcnews
+https://grabdeal.xyz/livetv/dbcnews
 #EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Deepto%20TV.png" group-title="Bangladesh",Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #http://grabdeal.xyz/livetv/deeptotv
 #EXTINF:-1 tvg-id="Desh TV" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Desh%20TV.png" group-title="Bangladesh",Desh TV
-http://10.16.100.203:8082/bangla/desh.m3u8
-#http://grabdeal.xyz/livetv/deshtv
+http://grabdeal.xyz/livetv/deshtv
 #EXTINF:-1 tvg-id="Digi Bangla" tvg-name="Digi Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Digi%20Bangla.png" group-title="Bangladesh",Digi Bangla
-http://grabdeal.xyz/livetv/digibangla
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#http://grabdeal.xyz/livetv/digibangla
 #EXTINF:-1 tvg-id="Duronto TV" tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Duronto.png" group-title="Bangladesh",Duronto TV
 http://grabdeal.xyz/livetv/durontotv
 #EXTINF:-1 tvg-id="Ekattor TV" tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekattor.png" group-title="Bangladesh",Ekattor TV
@@ -105,7 +101,7 @@ http://grabdeal.xyz/livetv/satv
 http://10.16.100.203:8082/bangla/somoy.m3u8
 #http://grabdeal.xyz/livetv/somoytv
 #EXTINF:-1 tvg-id="Sangshad Bangladesh" tvg-name="Sangshad Bangladesh" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/sangshad%20bangladesh.png" group-title="Bangladesh",Sangshad Bangladesh
-http://grabdeal.xyz/livetv/sangshadbangladesh
+http://10.16.100.201:8082/hindi/sangshodh_tv.m3u8
 #EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/AkashAath.png" group-title="Kolkata Bangla",Akash Aath
 http://10.16.100.203:8082/bangla/aakash_aath.m3u8
 #http://grabdeal.xyz/livetv/akashaath
