@@ -543,3 +543,5 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 #EXTINF:-1 tvg-id="TV24 Bangla" tvg-name="TV24 Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kolkata Bangla/.png" group-title="Kolkata Bangla",TV24 Bangla
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
+#EXTINF:-1 tvg-id="Pather Panchali" tvg-name="Pather Panchali" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kolkata Bangla/.png" group-title="Bangla Movie",Pather Panchali
+https://hoichoihlsns.akamaized.net/vhoichoiindia2/Renditions/20180910/PATHER_PANCHALI/hls/PATHER_PANCHALI_720.m3u8?hdntl=exp=1586094920~acl=/*~data=hdntl~hmac=fa275e7bf6a3de6a8abe496887fe0b8999b3631774c3c27cdebd9e1d19fc9f79
