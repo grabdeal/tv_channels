@@ -1,91 +1,91 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Ananda%20TV.png" group-title="Bangladesh",Ananda TV
-http://grabdeal.xyz/livetv/anandatv
+http://livetv.grabdeal.xyz/anandatv
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/asian%20tv.png" group-title="Bangladesh",Asian TV
-http://grabdeal.xyz/livetv/asiantv
-#http://grabdeal.xyz/livetv/asiantvalt
+http://livetv.grabdeal.xyz/asiantv
+#http://livetv.grabdeal.xyz/asiantvalt
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/atn%20bangla.png" group-title="Bangladesh",ATN Bangla
-http://grabdeal.xyz/livetv/atnbangla
-#http://grabdeal.xyz/livetv/atnbanglaalt
+http://livetv.grabdeal.xyz/atnbangla
+#http://livetv.grabdeal.xyz/atnbanglaalt
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ATN%20News.png" group-title="Bangladesh",ATN News
-http://grabdeal.xyz/livetv/atnnews
-#http://grabdeal.xyz/livetv/atnnewsalt
+http://livetv.grabdeal.xyz/atnnews
+#http://livetv.grabdeal.xyz/atnnewsalt
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/bangla%20tv.png" group-title="Bangladesh",Bangla TV
-http://grabdeal.xyz/livetv/banglatv
+http://livetv.grabdeal.xyz/banglatv
 #EXTINF:-1 tvg-id="Bangla Vision" tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/bangla%20vision.png" group-title="Bangladesh",Bangla Vision
-http://grabdeal.xyz/livetv/banglavision
-#http://grabdeal.xyz/livetv/banglavisionalt
+http://livetv.grabdeal.xyz/banglavision
+#http://livetv.grabdeal.xyz/banglavisionalt
 #EXTINF:-1 tvg-id="Bijoy TV" tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Bijoy.png" group-title="Bangladesh",Bijoy TV
-http://grabdeal.xyz/livetv/bijoytv
+http://livetv.grabdeal.xyz/bijoytv
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Boishakhi.png" group-title="Bangladesh",Boishakhi TV
-http://grabdeal.xyz/livetv/boishakhitv
-#http://grabdeal.xyz/livetv/boishakhitvalt
+http://livetv.grabdeal.xyz/boishakhitv
+#http://livetv.grabdeal.xyz/boishakhitvalt
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BTV.png" group-title="Bangladesh",BTV
-http://grabdeal.xyz/livetv/btv
+http://livetv.grabdeal.xyz/btv
 #EXTINF:-1 tvg-id="BTV World" tvg-name="BTV World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BTV%20World.png" group-title="Bangladesh",BTV World
-http://grabdeal.xyz/livetv/btvworld
+http://livetv.grabdeal.xyz/btvworld
 #EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%209.png" group-title="Bangladesh",Channel 9
-http://grabdeal.xyz/livetv/channel9
+http://livetv.grabdeal.xyz/channel9
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%2024.png" group-title="Bangladesh",Channel 24
-http://grabdeal.xyz/livetv/channel24
+http://livetv.grabdeal.xyz/channel24
 #EXTINF:-1 tvg-id="Channel i" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%20i.png" group-title="Bangladesh",Channel i
-http://grabdeal.xyz/livetv/channeli
-#http://grabdeal.xyz/livetv/channelialt
+http://livetv.grabdeal.xyz/channeli
+#http://livetv.grabdeal.xyz/channelialt
 #EXTINF:-1 tvg-id="Channel S" tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Channel%20S.png" group-title="Bangladesh",Channel S
-http://grabdeal.xyz/livetv/channelsuk
+http://livetv.grabdeal.xyz/channelsuk
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/DBC%20News.png" group-title="Bangladesh",DBC News
 https://grabdeal.xyz/livetv/dbcnews
 #EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Deepto%20TV.png" group-title="Bangladesh",Deepto TV
-http://grabdeal.xyz/livetv/deeptotv
+http://livetv.grabdeal.xyz/deeptotv
 #EXTINF:-1 tvg-id="Desh TV" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Desh%20TV.png" group-title="Bangladesh",Desh TV
-http://grabdeal.xyz/livetv/deshtv
+http://livetv.grabdeal.xyz/deshtv
 #EXTINF:-1 tvg-id="Digi Bangla" tvg-name="Digi Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Digi%20Bangla.png" group-title="Bangladesh",Digi Bangla
-http://grabdeal.xyz/livetv/digibangla
+http://livetv.grabdeal.xyz/digibangla
 #EXTINF:-1 tvg-id="Duronto TV" tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Duronto.png" group-title="Bangladesh",Duronto TV
-http://grabdeal.xyz/livetv/durontotv
+http://livetv.grabdeal.xyz/durontotv
 #EXTINF:-1 tvg-id="Ekattor TV" tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekattor.png" group-title="Bangladesh",Ekattor TV
-http://grabdeal.xyz/livetv/ekattortv
+http://livetv.grabdeal.xyz/ekattortv
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekushe.png" group-title="Bangladesh",Ekushe TV
-http://grabdeal.xyz/livetv/ekushetv
+http://livetv.grabdeal.xyz/ekushetv
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Bangladesh",Gazi TV
-http://grabdeal.xyz/livetv/gazitv
-#http://grabdeal.xyz/livetv/gazitvalt
-#http://grabdeal.xyz/livetv/gazitvalt2
+http://livetv.grabdeal.xyz/gazitv
+#http://livetv.grabdeal.xyz/gazitvalt
+#http://livetv.grabdeal.xyz/gazitvalt2
 #EXTINF:-1 tvg-id="Independent TV" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Independent.png" group-title="Bangladesh",Independent TV
-http://grabdeal.xyz/livetv/independenttv
+http://livetv.grabdeal.xyz/independenttv
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/jamuna%20tv.png" group-title="Bangladesh",Jamuna TV
-http://grabdeal.xyz/livetv/jamunatv
+http://livetv.grabdeal.xyz/jamunatv
 #EXTINF:-1 tvg-id="Maasranga" tvg-name="Maasranga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/maasranga.png" group-title="Bangladesh",Maasranga
-http://grabdeal.xyz/livetv/maasrangatv
+http://livetv.grabdeal.xyz/maasrangatv
 #EXTINF:-1 tvg-id="Mohona TV" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/mohona%20tv.png" group-title="Bangladesh",Mohona TV
-http://grabdeal.xyz/livetv/mohonatv
+http://livetv.grabdeal.xyz/mohonatv
 #EXTINF:-1 tvg-id="My TV" tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/MyTV.png" group-title="Bangladesh",My TV
-http://grabdeal.xyz/livetv/mytv
+http://livetv.grabdeal.xyz/mytv
 #EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/MyCinema.png" group-title="Bangladesh",My Cinema
-http://grabdeal.xyz/livetv/mycinema
+http://livetv.grabdeal.xyz/mycinema
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NTV.png" group-title="Bangladesh",NTV
-http://grabdeal.xyz/livetv/ntv
+http://livetv.grabdeal.xyz/ntv
 #EXTINF:-1 tvg-id="NTV (UK)" tvg-name="NTV (UK)" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NTVUK.png" group-title="Bangladesh",NTV (UK)
-http://grabdeal.xyz/livetv/ntvuk
+http://livetv.grabdeal.xyz/ntvuk
 #EXTINF:-1 tvg-id="NTV (US)" tvg-name="NTV (US)" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NTV.png" group-title="Bangladesh",NTV (US)
-http://grabdeal.xyz/livetv/ntv
+http://livetv.grabdeal.xyz/ntv
 #EXTINF:-1 tvg-id="Nagorik TV" tvg-name="Nagorik TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NagorikTV.png" group-title="Bangladesh",Nagorik TV
-http://grabdeal.xyz/livetv/nagoriktv
+http://livetv.grabdeal.xyz/nagoriktv
 #EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/News24.png" group-title="Bangladesh",News 24
-http://grabdeal.xyz/livetv/news24
+http://livetv.grabdeal.xyz/news24
 #EXTINF:-1 tvg-id="NRB TV" tvg-name="NRB TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NRBTV.png" group-title="Bangladesh",NRB TV
-http://grabdeal.xyz/livetv/nrbtv
+http://livetv.grabdeal.xyz/nrbtv
 #EXTINF:-1 tvg-id="NRB Connect" tvg-name="NRB Connect" tvg-logo="" group-title="Bangladesh",NRB Connect
-http://grabdeal.xyz/livetv/nrbconnect
+http://livetv.grabdeal.xyz/nrbconnect
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/RTV.png" group-title="Bangladesh",RTV
-http://grabdeal.xyz/livetv/rtv
-#http://grabdeal.xyz/livetv/rtvalt
+http://livetv.grabdeal.xyz/rtv
+#http://livetv.grabdeal.xyz/rtvalt
 #EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SATV.png" group-title="Bangladesh",SATV
-http://grabdeal.xyz/livetv/satv
+http://livetv.grabdeal.xyz/satv
 #EXTINF:-1 tvg-id="Somoy TV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SomoyTV.png" group-title="Bangladesh",Somoy TV
-http://grabdeal.xyz/livetv/somoytv
+http://livetv.grabdeal.xyz/somoytv
 #EXTINF:-1 tvg-id="Sangshad Bangladesh" tvg-name="Sangshad Bangladesh" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/sangshad%20bangladesh.png" group-title="Bangladesh",Sangshad Bangladesh
-http://grabdeal.xyz/livetv/sangshadbangladesh
+http://livetv.grabdeal.xyz/sangshadbangladesh
 #EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/AkashAath.png" group-title="Kolkata Bangla",Akash Aath
 https://grabdeal.xyz/livetv/akashaath
 #EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
@@ -98,177 +98,177 @@ https://grabdeal.xyz/livetv/starjalsha
 https://grabdeal.xyz/livetv/jalshamovies
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBangla.png" group-title="Kolkata Bangla",Zee Bangla
 https://grabdeal.xyz/livetv/zeebangla
-#http://grabdeal.xyz/livetv/zeebanglaalt
+#http://livetv.grabdeal.xyz/zeebanglaalt
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
 https://grabdeal.xyz/livetv/zeebanglacinema
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
 https://grabdeal.xyz/livetv/aldawahtv
 #EXTINF:-1 tvg-id="ATN Islamic" tvg-name="ATN Islamic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/ATNIslamic.png" group-title="Religion",ATN Islamic
-http://grabdeal.xyz/livetv/atnislamic
+http://livetv.grabdeal.xyz/atnislamic
 #EXTINF:-1 tvg-id="Iqra Bangla TV" tvg-name="Iqra Bangla TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/IqraBanglaTV.png" group-title="Religion",Iqra Bangla TV
-http://grabdeal.xyz/livetv/iqrabangla
+http://livetv.grabdeal.xyz/iqrabangla
 #EXTINF:-1 tvg-id="Madani TV Bangla" tvg-name="Madani TV Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniBangla.png" group-title="Religion",Madani TV Bangla
-http://grabdeal.xyz/livetv/madanibangla
+http://livetv.grabdeal.xyz/madanibangla
 #EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Religion",Peace TV Bangla
-http://grabdeal.xyz/livetv/peacetvbangla
+http://livetv.grabdeal.xyz/peacetvbangla
 #EXTINF:-1 tvg-id="Azan TV" tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Religion",Azan TV
-http://grabdeal.xyz/livetv/azantv
+http://livetv.grabdeal.xyz/azantv
 #EXTINF:-1 tvg-id="Makkah TV" tvg-name="Makkah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MakkaTV" group-title="Religion",Makkah TV
-http://grabdeal.xyz/livetv/makkahlive
+http://livetv.grabdeal.xyz/makkahlive
 #EXTINF:-1 tvg-id="Madani Channel" tvg-name="Madani TV English" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion",Madani Channel
-http://grabdeal.xyz/livetv/madanichannel
+http://livetv.grabdeal.xyz/madanichannel
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/AnimalPlanet.png" group-title="Infotainment",Animal Planet
-http://grabdeal.xyz/livetv/animalplanet
+http://livetv.grabdeal.xyz/animalplanet
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/BBCEarth.png" group-title="Infotainment",BBC Earth
-http://grabdeal.xyz/livetv/bbcearth
+http://livetv.grabdeal.xyz/bbcearth
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NationalGeographic.png" group-title="Infotainment",National Geographic
-http://grabdeal.xyz/livetv/natgeo
+http://livetv.grabdeal.xyz/natgeo
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NatGeoWild.png" group-title="Infotainment",Nat Geo Wild
-http://grabdeal.xyz/livetv/natgeowild
+http://livetv.grabdeal.xyz/natgeowild
 #EXTINF:-1 tvg-id="Nat Geo People" tvg-name="Nat Geo People" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NatGeoPeople.png" group-title="Infotainment",Nat Geo People
-http://grabdeal.xyz/livetv/natgeopeople
+http://livetv.grabdeal.xyz/natgeopeople
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryChannel.png" group-title="Infotainment",Discovery Channel
-http://grabdeal.xyz/livetv/discovery
+http://livetv.grabdeal.xyz/discovery
 #EXTINF:-1 tvg-id="Discovery Bangla" tvg-name="Discovery Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryBangla.png" group-title="Infotainment",Discovery Bangla
 http://103.118.76.234:1935/tvprogram/DISCOVERY/chunklist.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryScience.png" group-title="Infotainment",Discovery Science
-http://grabdeal.xyz/livetv/discoveryscience
+http://livetv.grabdeal.xyz/discoveryscience
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryTurbo.png" group-title="Infotainment",Discovery Turbo
-http://grabdeal.xyz/livetv/discoveryturbo
+http://livetv.grabdeal.xyz/discoveryturbo
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryWorld.png" group-title="Infotainment",Discovery World
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/26064
 #EXTINF:-1 tvg-id="NASA TV" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/NASATV.png" group-title="Infotainment",NASA TV
-http://grabdeal.xyz/livetv/nasatv
+http://livetv.grabdeal.xyz/nasatv
 #EXTINF:-1 tvg-id="FOX Life" tvg-name="FOX Life" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/FOXLife.png" group-title="Infotainment",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/History2.png" group-title="Infotainment",History 2
-http://grabdeal.xyz/livetv/history2
+http://livetv.grabdeal.xyz/history2
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/TLC.png" group-title="Infotainment",TLC
-http://grabdeal.xyz/livetv/tlc
+http://livetv.grabdeal.xyz/tlc
 #EXTINF:-1 tvg-id="RT Documentary" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/RTDocumentary.png" group-title="Infotainment",RT Documentary
-http://grabdeal.xyz/livetv/rtdocumentary
+http://livetv.grabdeal.xyz/rtdocumentary
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports",Sony Ten 1
-http://grabdeal.xyz/livetv/sonyten1
+http://livetv.grabdeal.xyz/sonyten1
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2.png" group-title="Sports",Sony Ten 2
-http://grabdeal.xyz/livetv/sonyten2
+http://livetv.grabdeal.xyz/sonyten2
 #EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen3.png" group-title="Sports",Sony Ten 3
-http://grabdeal.xyz/livetv/sonyten3
+http://livetv.grabdeal.xyz/sonyten3
 #EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonySix.png" group-title="Sports",Sony Six
-http://grabdeal.xyz/livetv/sonysix
+http://livetv.grabdeal.xyz/sonysix
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
-http://grabdeal.xyz/livetv/sonyespn
+http://livetv.grabdeal.xyz/sonyespn
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports1.png" group-title="Sports",Star Sports 1
-http://grabdeal.xyz/livetv/starsports1
+http://livetv.grabdeal.xyz/starsports1
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports2.png" group-title="Sports",Star Sports 2
-http://grabdeal.xyz/livetv/starsports2
+http://livetv.grabdeal.xyz/starsports2
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports3.png" group-title="Sports",Star Sports 3
-http://grabdeal.xyz/livetv/starsports3
+http://livetv.grabdeal.xyz/starsports3
 #EXTINF:-1 tvg-id="Star Sports First" tvg-name="Star Sports First" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsFirst.png" group-title="Sports",Star Sports First
-http://grabdeal.xyz/livetv/starsportsfirst
+http://livetv.grabdeal.xyz/starsportsfirst
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
-http://grabdeal.xyz/livetv/starsportsselect1
+http://livetv.grabdeal.xyz/starsportsselect1
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
-http://grabdeal.xyz/livetv/starsportsselect2
+http://livetv.grabdeal.xyz/starsportsselect2
 #EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportAction.png" group-title="Sports",Sky Sport Action
-http://grabdeal.xyz/livetv/skysportsaction
+http://livetv.grabdeal.xyz/skysportsaction
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportArena.png" group-title="Sports",Sky Sport Arena
-http://grabdeal.xyz/livetv/skysportsarena
+http://livetv.grabdeal.xyz/skysportsarena
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportsCricket.png" group-title="Sports",Sky Sports Cricket
-http://grabdeal.xyz/livetv/skysportscricket
+http://livetv.grabdeal.xyz/skysportscricket
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportF1.png" group-title="Sports",Sky Sport F1
-http://grabdeal.xyz/livetv/skysportsf1
+http://livetv.grabdeal.xyz/skysportsf1
 #EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportFootball.png" group-title="Sports",Sky Sport Football
-http://grabdeal.xyz/livetv/skysportsfootball
+http://livetv.grabdeal.xyz/skysportsfootball
 #EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportGolf.png" group-title="Sports",Sky Sport Golf
-http://grabdeal.xyz/livetv/skysportsgolf
+http://livetv.grabdeal.xyz/skysportsgolf
 #EXTINF:-1 tvg-id="Sky Sport Main Event" tvg-name="Sky Sport Main Event" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportMainEvent.png" group-title="Sports",Sky Sport Main Event
-http://grabdeal.xyz/livetv/skysportsmainevent
+http://livetv.grabdeal.xyz/skysportsmainevent
 #EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportMix.png" group-title="Sports",Sky Sport Mix
-http://grabdeal.xyz/livetv/skysportsmix
+http://livetv.grabdeal.xyz/skysportsmix
 #EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportNews.png" group-title="Sports",Sky Sport News
-http://grabdeal.xyz/livetv/skysportsnews
+http://livetv.grabdeal.xyz/skysportsnews
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportPremierLeague.png" group-title="Sports",Sky Sport Premier League
-http://grabdeal.xyz/livetv/skysportspremierleague
+http://livetv.grabdeal.xyz/skysportspremierleague
 #EXTINF:-1 tvg-id="Ten Sports" tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenSports.png" group-title="Sports",Ten Sports
-http://grabdeal.xyz/livetv/tensports
+http://livetv.grabdeal.xyz/tensports
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TenCricket.png" group-title="Sports",Ten Cricket
-http://grabdeal.xyz/livetv/TenCricket
+http://livetv.grabdeal.xyz/TenCricket
 #EXTINF:-1 tvg-id="Willow" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/Willow.png" group-title="Sports",Willow
-http://grabdeal.xyz/livetv/willow
+http://livetv.grabdeal.xyz/willow
 #EXTINF:-1 tvg-id="Bein Sports La Liga" tvg-name="Bein Sports La Liga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsLaLiga.png" group-title="Sports",Bein Sports La Liga
-http://grabdeal.xyz/livetv/beinsportlaliga
+http://livetv.grabdeal.xyz/beinsportlaliga
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1.png" group-title="Sports",Bein Sports 1
-http://grabdeal.xyz/livetv/beinsport1
+http://livetv.grabdeal.xyz/beinsport1
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="Bein Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2.png" group-title="Sports",Bein Sports 2
-http://grabdeal.xyz/livetv/beinsport2
+http://livetv.grabdeal.xyz/beinsport2
 #EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="Bein Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3.png" group-title="Sports",Bein Sports 3
-http://grabdeal.xyz/livetv/beinsport3
+http://livetv.grabdeal.xyz/beinsport3
 #EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="Bein Sports 4" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports4.png" group-title="Sports",Bein Sports 4
-http://grabdeal.xyz/livetv/beinsport4
+http://livetv.grabdeal.xyz/beinsport4
 #EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="Bein Sports 5" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports5.png" group-title="Sports",Bein Sports 5
-http://grabdeal.xyz/livetv/beinsport5
+http://livetv.grabdeal.xyz/beinsport5
 #EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="Bein Sports 6" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports6.png" group-title="Sports",Bein Sports 6
-http://grabdeal.xyz/livetv/beinsport6
+http://livetv.grabdeal.xyz/beinsport6
 #EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="Bein Sports 7" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports7.png" group-title="Sports",Bein Sports 7
-http://grabdeal.xyz/livetv/beinsport7
+http://livetv.grabdeal.xyz/beinsport7
 #EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="Bein Sports 8" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports8.png" group-title="Sports",Bein Sports 8
-http://grabdeal.xyz/livetv/beinsport8
+http://livetv.grabdeal.xyz/beinsport8
 #EXTINF:-1 tvg-id="Bein Sports USA" tvg-name="Bein Sports USA" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsUSA.png" group-title="Sports",Bein Sports USA
-http://grabdeal.xyz/livetv/beinsportusa
+http://livetv.grabdeal.xyz/beinsportusa
 #EXTINF:-1 tvg-id="Bein Sports Canada" tvg-name="Bein Sports Canada" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsCanada.png" group-title="Sports",Bein Sports Canada
-http://grabdeal.xyz/livetv/beinsportca
+http://livetv.grabdeal.xyz/beinsportca
 #EXTINF:-1 tvg-id="Bein Sports 1 Australia" tvg-name="Bein Sports 1 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1Australia.png" group-title="Sports",Bein Sports 1 Australia
-http://grabdeal.xyz/livetv/beinsportau1
+http://livetv.grabdeal.xyz/beinsportau1
 #EXTINF:-1 tvg-id="Bein Sports 2 Australia" tvg-name="Bein Sports 2 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2Australia.png" group-title="Sports",Bein Sports 2 Australia
-http://grabdeal.xyz/livetv/beinsportau2
+http://livetv.grabdeal.xyz/beinsportau2
 #EXTINF:-1 tvg-id="Bein Sports 3 Australia" tvg-name="Bein Sports 3 Australia" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3Australia.png" group-title="Sports",Bein Sports 3 Australia
-http://grabdeal.xyz/livetv/beinsportau3
+http://livetv.grabdeal.xyz/beinsportau3
 #EXTINF:-1 tvg-id="Bein Sport News HD Arabic" tvg-name="Bein Sport News HD Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportNewsHDArabic.png" group-title="Sports",Bein Sport News HD Arabic
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/285
 #EXTINF:-1 tvg-id="Bein Sport 1 Arabic" tvg-name="Bein Sport 1 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport1Arabic.png" group-title="Sports",Bein Sport 1 Arabic
-http://grabdeal.xyz/livetv/arbeinsport1
+http://livetv.grabdeal.xyz/arbeinsport1
 #EXTINF:-1 tvg-id="Bein Sport 2 Arabic" tvg-name="Bein Sport 2 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport2Arabic.png" group-title="Sports",Bein Sport 2 Arabic
-http://grabdeal.xyz/livetv/arbeinsport2
+http://livetv.grabdeal.xyz/arbeinsport2
 #EXTINF:-1 tvg-id="Bein Sport 3 Arabic" tvg-name="Bein Sport 3 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport3Arabic.png" group-title="Sports",Bein Sport 3 Arabic
-http://grabdeal.xyz/livetv/arbeinsport3
+http://livetv.grabdeal.xyz/arbeinsport3
 #EXTINF:-1 tvg-id="Bein Sport 4 Arabic" tvg-name="Bein Sport 4 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport4Arabic.png" group-title="Sports",Bein Sport 4 Arabic
-http://grabdeal.xyz/livetv/arbeinsport4
+http://livetv.grabdeal.xyz/arbeinsport4
 #EXTINF:-1 tvg-id="Bein Sport 5 Arabic" tvg-name="Bein Sport 5 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport5Arabic.png" group-title="Sports",Bein Sport 5 Arabic
-http://grabdeal.xyz/livetv/arbeinsport5
+http://livetv.grabdeal.xyz/arbeinsport5
 #EXTINF:-1 tvg-id="Bein Sport 6 Arabic" tvg-name="Bein Sport 6 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport6Arabic.png" group-title="Sports",Bein Sport 6 Arabic
-http://grabdeal.xyz/livetv/arbeinsport6
+http://livetv.grabdeal.xyz/arbeinsport6
 #EXTINF:-1 tvg-id="Bein Sport 7 Arabic" tvg-name="Bein Sport 7 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport7Arabic.png" group-title="Sports",Bein Sport 7 Arabic
-http://grabdeal.xyz/livetv/arbeinsport7
+http://livetv.grabdeal.xyz/arbeinsport7
 #EXTINF:-1 tvg-id="Bein Sport 8 Arabic" tvg-name="Bein Sport 8 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport8Arabic.png" group-title="Sports",Bein Sport 8 Arabic
-http://grabdeal.xyz/livetv/arbeinsport8
+http://livetv.grabdeal.xyz/arbeinsport8
 #EXTINF:-1 tvg-id="Bein Sport 9 Arabic" tvg-name="Bein Sport 9 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport9Arabic.png" group-title="Sports",Bein Sport 9 Arabic
-http://grabdeal.xyz/livetv/arbeinsport9
+http://livetv.grabdeal.xyz/arbeinsport9
 #EXTINF:-1 tvg-id="Bein Sport 10 Arabic" tvg-name="Bein Sport 10 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport10Arabic.png" group-title="Sports",Bein Sport 10 Arabic
-http://grabdeal.xyz/livetv/arbeinsport10
+http://livetv.grabdeal.xyz/arbeinsport10
 #EXTINF:-1 tvg-id="Bein Sport 11 Arabic" tvg-name="Bein Sport 11 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport11Arabic.png" group-title="Sports",Bein Sport 11 Arabic
-http://grabdeal.xyz/livetv/arbeinsport11
+http://livetv.grabdeal.xyz/arbeinsport11
 #EXTINF:-1 tvg-id="Bein Sport 12 Arabic" tvg-name="Bein Sport 12 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport12Arabic.png" group-title="Sports",Bein Sport 12 Arabic
-http://grabdeal.xyz/livetv/arbeinsport12
+http://livetv.grabdeal.xyz/arbeinsport12
 #EXTINF:-1 tvg-id="Bein Sport 13 Arabic" tvg-name="Bein Sport 13 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport13Arabic.png" group-title="Sports",Bein Sport 13 Arabic
-http://grabdeal.xyz/livetv/arbeinsport13
+http://livetv.grabdeal.xyz/arbeinsport13
 #EXTINF:-1 tvg-id="Bein Sport 14 Arabic" tvg-name="Bein Sport 14 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport14Arabic.png" group-title="Sports",Bein Sport 14 Arabic
-http://grabdeal.xyz/livetv/arbeinsport14
+http://livetv.grabdeal.xyz/arbeinsport14
 #EXTINF:-1 tvg-id="Bein Sport 15 Arabic" tvg-name="Bein Sport 15 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport15Arabic.png" group-title="Sports",Bein Sport 15 Arabic
-http://grabdeal.xyz/livetv/arbeinsport15
+http://livetv.grabdeal.xyz/arbeinsport15
 #EXTINF:-1 tvg-id="Bein Sport 16 Arabic" tvg-name="Bein Sport 16 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport16Arabic.png" group-title="Sports",Bein Sport 16 Arabic
-http://grabdeal.xyz/livetv/arbeinsport16
+http://livetv.grabdeal.xyz/arbeinsport16
 #EXTINF:-1 tvg-id="Bein Sport 17 Arabic" tvg-name="Bein Sport 17 Arabic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSport17Arabic.png" group-title="Sports",Bein Sport 17 Arabic
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/18827
 #EXTINF:-1 tvg-id="Bein Sports Haber Turkey" tvg-name="Bein Sports Haber Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportsHaberTurkey.png" group-title="Sports",Bein Sports Haber Turkey
-http://grabdeal.xyz/livetv/trbeinsporthaber
+http://livetv.grabdeal.xyz/trbeinsporthaber
 #EXTINF:-1 tvg-id="Bein Sports 1 Turkey" tvg-name="Bein Sports 1 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports1Turkey.png" group-title="Sports",Bein Sports 1 Turkey
-http://grabdeal.xyz/livetv/trbeinsport1
+http://livetv.grabdeal.xyz/trbeinsport1
 #EXTINF:-1 tvg-id="Bein Sports 2 Turkey" tvg-name="Bein Sports 2 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports2Turkey.png" group-title="Sports",Bein Sports 2 Turkey
-http://grabdeal.xyz/livetv/trbeinsport2
+http://livetv.grabdeal.xyz/trbeinsport2
 #EXTINF:-1 tvg-id="Bein Sports 3 Turkey" tvg-name="Bein Sports 3 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports3Turkey.png" group-title="Sports",Bein Sports 3 Turkey
-http://grabdeal.xyz/livetv/trbeinsport3
+http://livetv.grabdeal.xyz/trbeinsport3
 #EXTINF:-1 tvg-id="Bein Sports 4 Turkey" tvg-name="Bein Sports 4 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSports4Turkey.png" group-title="Sports",Bein Sports 4 Turkey
-http://grabdeal.xyz/livetv/trbeinsport4
+http://livetv.grabdeal.xyz/trbeinsport4
 #EXTINF:-1 tvg-id="Bein Sport MAX 1 Turkey" tvg-name="Bein Sport MAX 1 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportMAX1Turkey.png" group-title="Sports",Bein Sport MAX 1 Turkey
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/9592
 #EXTINF:-1 tvg-id="Bein Sport MAX 2 Turkey" tvg-name="Bein Sport MAX 2 Turkey" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BeinSportMAX2Turkey.png" group-title="Sports",Bein Sport MAX 2 Turkey
@@ -284,11 +284,11 @@ http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22693
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/TSN5.png" group-title="Sports",TSN 5
 http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/22692
 #EXTINF:-1 tvg-id="BT Sports 1" tvg-name="BT Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports1.png" group-title="Sports",BT Sports 1
-http://grabdeal.xyz/livetv/btsport1
+http://livetv.grabdeal.xyz/btsport1
 #EXTINF:-1 tvg-id="BT Sports 2" tvg-name="BT Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports2.png" group-title="Sports",BT Sports 2
-http://grabdeal.xyz/livetv/btsport2
+http://livetv.grabdeal.xyz/btsport2
 #EXTINF:-1 tvg-id="BT Sports 3" tvg-name="BT Sports 3" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSports3.png" group-title="Sports",BT Sports 3
-http://grabdeal.xyz/livetv/btsport3
+http://livetv.grabdeal.xyz/btsport3
 #EXTINF:-1 tvg-id="BT Sports ESPN" tvg-name="BT Sports ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/BTSportsESPN.png" group-title="Sports",BT Sports ESPN
 https://sportbar.biz/lba/123/g7/btse.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/AbuDhabiSports1.png" group-title="Sports",Abu Dhabi Sports 1
@@ -332,25 +332,25 @@ https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 #EXTINF:-1 tvg-id="Sharjah Sports" tvg-name="Sharjah Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SharjahSports.png" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/Animax.png" group-title="Kids",Animax
-http://grabdeal.xyz/livetv/animax
+http://livetv.grabdeal.xyz/animax
 #EXTINF:-1 tvg-id="AnyPlus" tvg-name="AnyPlus" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/AnyPlus.png" group-title="Kids",AnyPlus
-http://grabdeal.xyz/livetv/anyplus
+http://livetv.grabdeal.xyz/anyplus
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/Boomerang.png" group-title="Kids",Boomerang
-http://grabdeal.xyz/livetv/boomerang
+http://livetv.grabdeal.xyz/boomerang
 #EXTINF:-1 tvg-id="Cartoon Network 1" tvg-name="Cartoon Network 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/CartoonNetwork1.png" group-title="Kids",Cartoon Network 1
-http://grabdeal.xyz/livetv/cartoonnetwork1
+http://livetv.grabdeal.xyz/cartoonnetwork1
 #EXTINF:-1 tvg-id="Cartoon Network 2" tvg-name="Cartoon Network 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/CartoonNetwork2.png" group-title="Kids",Cartoon Network 2
-http://grabdeal.xyz/livetv/cartoonnetwork2
+http://livetv.grabdeal.xyz/cartoonnetwork2
 #EXTINF:-1 tvg-id="Cartoons 4U" tvg-name="Cartoons 4U" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/Cartoons4U.png" group-title="Kids",Cartoons 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/DiscoveryKids.png" group-title="Kids",Discovery Kids
-http://grabdeal.xyz/livetv/discoverykids
+http://livetv.grabdeal.xyz/discoverykids
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/DisneyJunior.png" group-title="Kids",Disney Channel
-http://grabdeal.xyz/livetv/disneychannel
+http://livetv.grabdeal.xyz/disneychannel
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/DisneyJunior.png" group-title="Kids",Disney Junior
-http://grabdeal.xyz/livetv/disneyjunior
+http://livetv.grabdeal.xyz/disneyjunior
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/DisneyJunior.png" group-title="Kids",Disney Junior
-http://grabdeal.xyz/livetv/disneyjunior
+http://livetv.grabdeal.xyz/disneyjunior
 #EXTINF:-1 tvg-id="Dubbi Kids" tvg-name="Dubbi Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/DubbiKids.png" group-title="Kids",Dubbi Kids
 https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/master.m3u8
 #EXTINF:-1 tvg-id="EBS Kids" tvg-name="EBS Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/EBSKids.png" group-title="Kids",EBS Kids
@@ -366,7 +366,7 @@ http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_1916
 #EXTINF:-1 tvg-id="Rai Gulp" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/RaiGulp.png" group-title="Kids",Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1 tvg-id="Spacetoons Kids" tvg-name="Spacetoons Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/SpacetoonsKids.png" group-title="Kids",Spacetoons Kids
-http://grabdeal.xyz/livetv/spacetoon
+http://livetv.grabdeal.xyz/spacetoon
 #EXTINF:-1 tvg-id="ATN Music" tvg-name="ATN Music" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ATN%20Music.png" group-title="Music",ATN Music
 http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bangla Talkies" tvg-name="Bangla Talkies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/BanglaTalkies.png" group-title="Music",Bangla Talkies
