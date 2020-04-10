@@ -172,6 +172,26 @@ http://livetv.grabdeal.xyz/starsports2
 http://livetv.grabdeal.xyz/starsportsselect1
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
 http://livetv.grabdeal.xyz/starsportsselect2
+#EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sport Action
+http://livetv.grabdeal.xyz/skysportsaction
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sport Arena
+http://livetv.grabdeal.xyz/skysportsarena
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="ttps://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Sports",Sky Sports Cricket
+http://livetv.grabdeal.xyz/skysportscricket
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sport F1
+http://livetv.grabdeal.xyz/skysportsf1
+#EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Sports",Sky Sport Football
+http://livetv.grabdeal.xyz/skysportsfootball
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="http://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Sports",Sky Sport Golf
+http://livetv.grabdeal.xyz/skysportsgolf
+#EXTINF:-1 tvg-id="Sky Sport Main Event" tvg-name="Sky Sport Main Event" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Sports",Sky Sport Main Event
+http://livetv.grabdeal.xyz/skysportsmainevent
+#EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sport Mix
+http://livetv.grabdeal.xyz/skysportsmix
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportNews.png" group-title="Sports",Sky Sport News
+http://livetv.grabdeal.xyz/skysportsnews
+#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sport Premier League
+http://dragoniptv.club:8080/Z0KftP9RBj/0dcwDfykqn/30341
 
 #Kids
 #EXTINF:-1 tvg-id="AnyPlus" tvg-name="AnyPlus" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/AnyPlus.png" group-title="Kids",AnyPlus
