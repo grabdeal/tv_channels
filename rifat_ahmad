@@ -100,10 +100,6 @@ http://livetv.grabdeal.xyz/jalshamovies
 http://livetv.grabdeal.xyz/zeebangla
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
 http://livetv.grabdeal.xyz/zeebanglacinema
-#EXTINF:-1 tvg-id="ABP Ananda" tvg-name="ABP Ananda" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ABPAnanda.png" group-title="Kolkata Bangla",ABP Ananda
-http://livetv.grabdeal.xyz/abpananda
-#EXTINF:-1 tvg-id="Zee 24 Ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ABPAnanda.png" group-title="Kolkata Bangla",Zee 24 Ghanta
-http://livetv.grabdeal.xyz/zee24ghanta
 
 #Religion
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
@@ -122,8 +118,6 @@ http://livetv.grabdeal.xyz/madanichannel
 http://livetv.grabdeal.xyz/makkahlive
 #EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Religion",Peace TV Bangla
 http://livetv.grabdeal.xyz/peacetvbangla
-#EXTINF:-1 tvg-id="Peace TV" tvg-name="Peace TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTV.png" group-title="Religion",Peace TV
-http://livetv.grabdeal.xyz/peacetv
 
 #Infotainment
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/AnimalPlanet.png" group-title="Infotainment",Animal Planet
@@ -173,7 +167,7 @@ http://livetv.grabdeal.xyz/starsportsselect1
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
 http://livetv.grabdeal.xyz/starsportsselect2
 #EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sport Action
-https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+http://livetv.grabdeal.xyz/skysportsaction
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sport Arena
 http://livetv.grabdeal.xyz/skysportsarena
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="ttps://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Sports",Sky Sports Cricket
@@ -280,15 +274,17 @@ http://livetv.grabdeal.xyz/tvone24
 http://livetv.grabdeal.xyz/varendratv
 
 #Kolkata Bangla
-#EXTINF:-1 tvg-id="Bangla Time" tvg-name="Bangla Time" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BanglaTime.png" group-title="Kolkata Bangla",Bangla Time
-http://livetv.grabdeal.xyz/banglatime
 #EXTINF:-1 tvg-id="DD Bangla" tvg-name="DD Bangla" tvg-logo="http://www.ddbangla.gov.in/templetes/templete1/logo/logo.jpg" group-title="Kolkata Bangla",DD Bangla
 http://livetv.grabdeal.xyz/ddbangla
-#EXTINF:-1 tvg-id="News 18" tvg-name="News 18" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ABPAnanda.png" group-title="Kolkata Bangla",News 18
-http://livetv.grabdeal.xyz/news18
-#EXTINF:-1 tvg-id="Orange Bangla" tvg-name="Orange Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ABPAnanda.png" group-title="Kolkata Bangla",Orange Bangla
+#EXTINF:-1 tvg-id="Orange Bangla" tvg-name="Orange Bangla" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/40684127_1962428110492940_7685972155195981824_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_eui2=AeHRYgVX3tIZ4RqKQrwxBXbqMBCGJHmwRKMwEIYkebBEozqM3quautoEP6Ut5O1-X8yW59bTYU-2kFOGcfEGblGN&_nc_ohc=cHkb4sB2yZIAX8d-oXQ&_nc_ht=scontent.fdac74-1.fna&oh=e69c4491a67f35e54887bc065b549133&oe=5EB784D6" group-title="Kolkata Bangla",Orange Bangla
 http://livetv.grabdeal.xyz/orangebangla
 #EXTINF:-1 tvg-id="Tele Film" tvg-name="Tele Film" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ABPAnanda.png" group-title="Kolkata Bangla",Tele Film
 http://livetv.grabdeal.xyz/telefilm
-#EXTINF:-1 tvg-id="TV24 Bangla" tvg-name="TV24 Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ABPAnanda.png" group-title="Kolkata Bangla",TV24 Bangla
+#EXTINF:-1 tvg-id="ABP Ananda" tvg-name="ABP Ananda" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ABPAnanda.png" group-title="Kolkata Bangla",ABP Ananda
+http://livetv.grabdeal.xyz/abpananda
+#EXTINF:-1 tvg-id="News 18" tvg-name="News 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/News18_Bangla_logo.jpeg" group-title="Kolkata Bangla",News 18
+http://livetv.grabdeal.xyz/news18
+#EXTINF:-1 tvg-id="TV24 Bangla" tvg-name="TV24 Bangla" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/10388196_1618153475103685_3208709105382628905_n.png?_nc_cat=104&_nc_sid=85a577&_nc_eui2=AeEPKnKTLjBbn2HAARpzthQChMUPwSxrJnuExQ_BLGsme8asolMRux1C9RY_s642s-zPup7NC0uwE8JLIwZGFXzd&_nc_ohc=lSgePKYhZ2MAX8YqGJd&_nc_ht=scontent.fdac74-1.fna&oh=1504272cde1b55abbe68b1bca28f5388&oe=5EB804BF" group-title="Kolkata Bangla",TV24 Bangla
 http://livetv.grabdeal.xyz/tv24bangla
+#EXTINF:-1 tvg-id="Zee 24 Ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/e1d81d8ff063f6d187823c1028deb12c.png" group-title="Kolkata Bangla",Zee 24 Ghanta
+http://livetv.grabdeal.xyz/zee24ghanta
