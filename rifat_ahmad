@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Ananda TV" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Ananda%20TV.png" group-title="Bangladesh",Ananda TV
-https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
-#http://tvserver.roarzone.info:8082/39/index.m3u8
+http://tvserver.roarzone.info:8082/39/index.m3u8
 #http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
 #EXTINF:-1 tvg-id="Asian TV" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/asian%20tv.png" group-title="Bangladesh",Asian TV
 http://tvserver.roarzone.info:8082/15/index.m3u8
 #http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
