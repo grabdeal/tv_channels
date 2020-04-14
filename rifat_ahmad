@@ -134,7 +134,7 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-id="NRB Connect" tvg-name="NRB Connect" tvg-logo="https://pbs.twimg.com/profile_images/965838464573882368/2-S5Jkng_400x400.jpg" group-title="Bangladesh",NRB Connect
 http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/RTV.png" group-title="Bangladesh",RTV
-https://bracnet.iptv.jadoodigital.com/live/ntv/chunks.m3u8
+https://bracnet.iptv.jadoodigital.com/live/rtv/chunks.m3u8
 #http://tvserver.roarzone.info:8082/33/index.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/rtv/chunks.m3u8
 #EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SATV.png" group-title="Bangladesh",SATV
