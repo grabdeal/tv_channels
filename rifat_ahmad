@@ -213,7 +213,8 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 #http://tvserver.roarzone.info:8082/45/index.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA" group-title="Infotainment",BBC Earth
-https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
+http://p5.giffy.be:8080/gabi12/gabi12/45042
+#https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryChannel.png" group-title="Infotainment",Discovery Channel
 #http://tvserver.roarzone.info:8082/89/index.m3u8
 #https://streamer-1.toffeelive.com/live/discovery_hd_720/index.m3u8
