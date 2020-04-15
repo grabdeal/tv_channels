@@ -183,9 +183,10 @@ http://z5amshls.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
 #https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
-https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
+#http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+#https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 #http://tvserver.roarzone.info:8082/9/index.m3u8
-#http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
 
 #Islamic
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
@@ -260,7 +261,8 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hd
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
 http://103.58.73.26/streams/110/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports1.png" group-title="Sports",Star Sports 1
-http://175.41.46.16:8081/hls/1.m3u8
+http://195.181.169.120/StarSports_Hd4/playlist.m3u8
+#http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports2.png" group-title="Sports",Star Sports 2
 http://tvserver.roarzone.info:8082/61/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
@@ -271,7 +273,7 @@ http://p5.giffy.be:8080/gabi12/gabi12/20734
 https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sport Arena
 https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="ttps://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Sports",Sky Sports Cricket
 https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sport F1
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
@@ -283,7 +285,7 @@ https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sport Mix
 https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SkySportNews.png" group-title="Sports",Sky Sport News
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sport News
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sport Premier League
 https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
