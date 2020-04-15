@@ -30,17 +30,17 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #http://tvserver.roarzone.info:8082/101/index.m3u8
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Boishakhi.png" group-title="Bangladesh",Boishakhi TV
-http://tvserver.roarzone.info:8082/19/index.m3u8
-#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#http://tvserver.roarzone.info:8082/19/index.m3u8
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #https://bracnet.iptv.jadoodigital.com/live/boishakhi_tv/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/boishakhi/chunks.m3u8
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BTV.png" group-title="Bangladesh",BTV
-http://tvserver.roarzone.info:8082/104/index.m3u8
-#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
+#http://tvserver.roarzone.info:8082/104/index.m3u8
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/btv/chunks.m3u8
 #EXTINF:-1 tvg-id="BTV World" tvg-name="BTV World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/BTV%20World.png" group-title="Bangladesh",BTV World
-http://tvserver.roarzone.info:8082/4/index.m3u8
-#http://23.106.120.40:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#http://tvserver.roarzone.info:8082/4/index.m3u8
+http://23.106.120.40:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%209.png" group-title="Bangladesh",Channel 9
 https://bracnet.iptv.jadoodigital.com/live/channel_9/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/channel9
@@ -82,8 +82,8 @@ https://bracnet.iptv.jadoodigital.com/live/ekattor_tv/chunks.m3u8
 #http://tvserver.roarzone.info:8082/27/index.m3u8
 #https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekushe.png" group-title="Bangladesh",Ekushe TV
-http://tvserver.roarzone.info:8082/28/index.m3u8
-#https://bracnet.iptv.jadoodigital.com/live/ekushey_tv/chunks.m3u8
+#http://tvserver.roarzone.info:8082/28/index.m3u8
+https://bracnet.iptv.jadoodigital.com/live/ekushey_tv/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Bangladesh",Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
@@ -100,8 +100,8 @@ https://bracnet.iptv.jadoodigital.com/live/jamuna_tv/chunks.m3u8
 #http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #http://103.144.200.7:8080/hls/jamunatv/index.m3u8
 #EXTINF:-1 tvg-id="Maasranga" tvg-name="Maasranga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/maasranga.png" group-title="Bangladesh",Maasranga
-http://tvserver.roarzone.info:8082/14/index.m3u8
-#https://bracnet.iptv.jadoodigital.com/live/maasranga/chunks.m3u8
+#http://tvserver.roarzone.info:8082/14/index.m3u8
+https://bracnet.iptv.jadoodigital.com/live/maasranga/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/playlist.m3u8
 #EXTINF:-1 tvg-id="Mohona TV" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/mohona%20tv.png" group-title="Bangladesh",Mohona TV
 https://bracnet.iptv.jadoodigital.com/live/mohona_tv/chunks.m3u8
@@ -109,8 +109,8 @@ https://bracnet.iptv.jadoodigital.com/live/mohona_tv/chunks.m3u8
 #http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/mohona/chunks.m3u8
 #EXTINF:-1 tvg-id="My TV" tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/MyTV.png" group-title="Bangladesh",My TV
-http://tvserver.roarzone.info:8082/43/index.m3u8
-#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#http://tvserver.roarzone.info:8082/43/index.m3u8
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/mycinemabd.jpg?x91288" group-title="Bangladesh",My Cinema
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NTV.png" group-title="Bangladesh",NTV
@@ -126,8 +126,8 @@ https://bracnet.iptv.jadoodigital.com/live/nagorik_tv/chunks.m3u8
 #http://tvserver.roarzone.info:8082/32/index.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/chunks.m3u8
 #EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/News24.png" group-title="Bangladesh",News 24
-http://tvserver.roarzone.info:8082/105/index.m3u8
-#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#http://tvserver.roarzone.info:8082/105/index.m3u8
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/news24/chunks.m3u8
 #EXTINF:-1 tvg-id="NRB TV" tvg-name="NRB TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NRBTV.png" group-title="Bangladesh",NRB TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
@@ -151,33 +151,33 @@ http://23.106.120.40:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #KolkataBangla
 #EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/AkashAath.png" group-title="Kolkata Bangla",Akash Aath
-http://tvserver.roarzone.info:8082/46/index.m3u8
+#http://tvserver.roarzone.info:8082/46/index.m3u8
 #https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
-#http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
+http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
-http://tvserver.roarzone.info:8082/36/index.m3u8
-#https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
+#http://tvserver.roarzone.info:8082/36/index.m3u8
+https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="Orange Bangla" tvg-name="Orange Bangla" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/40684127_1962428110492940_7685972155195981824_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_eui2=AeHRYgVX3tIZ4RqKQrwxBXbqMBCGJHmwRKMwEIYkebBEozqM3quautoEP6Ut5O1-X8yW59bTYU-2kFOGcfEGblGN&_nc_ohc=cHkb4sB2yZIAX8d-oXQ&_nc_ht=scontent.fdac74-1.fna&oh=e69c4491a67f35e54887bc065b549133&oe=5EB784D6" group-title="Kolkata Bangla",Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
 #EXTINF:-1 tvg-id="Ruposhi Bangla" tvg-name="Ruposhi Bangla" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/1005371_443276535777045_839348799_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_eui2=AeF9YcGqDExtAKNRiYTf98pyTra1WvUIWYdOtrVa9QhZh9eOuNQlTxR-HVTWS3PN8umrxxNzRGY_gZqf2cD22s2W&_nc_ohc=XXicOAnJXOEAX9_-rcG&_nc_ht=scontent.fdac74-1.fna&oh=419a67c105208d236f102dc5ffbc39f5&oe=5EB70B98" group-title="Kolkata Bangla",Ruposhi Bangla
 http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonyAath.png" group-title="Kolkata Bangla",Sony Aath
-http://tvserver.roarzone.info:8082/47/index.m3u8
-#https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+#http://tvserver.roarzone.info:8082/47/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarJalsha.png" group-title="Kolkata Bangla",Star Jalsha
 http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
 #http://tvserver.roarzone.info:8082/37/index.m3u
 #EXTINF:-1 tvg-id="Jalsha Movies" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/JalshaMovies.png" group-title="Kolkata Bangla",Jalsha Movies
-http://tvserver.roarzone.info:8082/38/index.m3u8
-#https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
+#http://tvserver.roarzone.info:8082/38/index.m3u8
+https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
 #http://103.58.73.26/streams/115/index.m3u8
 #EXTINF:-1 tvg-id="Tele Film" tvg-name="Tele Film" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ABPAnanda.png" group-title="Kolkata Bangla",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBangla.png" group-title="Kolkata Bangla",Zee Bangla
-http://tvserver.roarzone.info:8082/48/index.m3u8
-#http://z5amshls.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+#http://tvserver.roarzone.info:8082/48/index.m3u8
+http://z5amshls.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
 #https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
@@ -190,8 +190,8 @@ https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ATN Islamic" tvg-name="ATN Islamic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/ATNIslamic.png" group-title="Religion",ATN Islamic
-http://tvserver.roarzone.info:8082/111/index.m3u8
-#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#http://tvserver.roarzone.info:8082/111/index.m3u8
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Azan TV" tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Religion",Azan TV
 http://23.106.120.40:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Iqra Bangla TV" tvg-name="Iqra Bangla TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/IqraBanglaTV.png" group-title="Religion",Iqra Bangla TV
@@ -208,13 +208,13 @@ http://tvserver.roarzone.info:8082/52/index.m3u8
 
 #Infotainment
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/AnimalPlanet.png" group-title="Infotainment",Animal Planet
-http://tvserver.roarzone.info:8082/45/index.m3u8
-#http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
+#http://tvserver.roarzone.info:8082/45/index.m3u8
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA" group-title="Infotainment",BBC Earth
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryChannel.png" group-title="Infotainment",Discovery Channel
-http://tvserver.roarzone.info:8082/89/index.m3u8
-#https://streamer-1.toffeelive.com/live/discovery_hd_720/index.m3u8
+#http://tvserver.roarzone.info:8082/89/index.m3u8
+https://streamer-1.toffeelive.com/live/discovery_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryScience.png" group-title="Infotainment",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryTurbo.png" group-title="Infotainment",Discovery Turbo
@@ -299,11 +299,11 @@ http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/DiscoveryKids.png" group-title="Kids",Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney channel" tvg-name="Disney channel" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/Disneychannel.png" group-title="Kids",Disney channel
-http://tvserver.roarzone.info:8082/126/index.m3u8
-#http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#http://tvserver.roarzone.info:8082/126/index.m3u8
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/DisneyJunior.png" group-title="Kids",Disney Junior
-http://tvserver.roarzone.info:8082/125/index.m3u8
-#http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#http://tvserver.roarzone.info:8082/125/index.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="Nick Bangla" tvg-name="Nick Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/NickBangla.png" group-title="Kids",Nick Bangla
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #http://103.115.159.37:8080/nick/tracks-v1a1/mono.m3u8
