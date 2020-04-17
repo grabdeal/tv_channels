@@ -165,7 +165,8 @@ http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonyAath.png" group-title="Kolkata Bangla",Sony Aath
 #http://tvserver.roarzone.info:8082/47/index.m3u8
 #https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
-http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
+#http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
+http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarJalsha.png" group-title="Kolkata Bangla",Star Jalsha
 http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
