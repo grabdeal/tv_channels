@@ -297,17 +297,17 @@ https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 #Hindi
 #EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi",& TV
 http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="& Prive" tvg-name="& Prive" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/&Prive" group-title="Hindi",& Prive
+#EXTINF:-1 tvg-id="& Prive" tvg-name="& Prive" tvg-logo="https://i.imgur.com/UiJO3dl.jpg" group-title="Hindi",& Prive
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/Colors" group-title="Hindi",Colors
+#EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="Hindi",Colors
 https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="Sony Pal" tvg-name="Sony Pal" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonyPal" group-title="Hindi",Sony Pal
+#EXTINF:-1 tvg-id="Sony Pal" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/9lOaU2P.jpg" group-title="Hindi",Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
-#EXTINF:-1 tvg-id="Sony SAB" tvg-name="Sony SAB" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonySAB" group-title="Hindi",Sony SAB
+#EXTINF:-1 tvg-id="Sony SAB" tvg-name="Sony SAB" tvg-logo="https://i.imgur.com/WmCucdD.jpg" group-title="Hindi",Sony SAB
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="Sony Set Max" tvg-name="Sony Set Max" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonySetMax" group-title="Hindi",Sony Set Max
+#EXTINF:-1 tvg-id="Sony Set Max" tvg-name="Sony Set Max" tvg-logo="https://i.imgur.com/sd5m075.jpg" group-title="Hindi",Sony Set Max
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="Sony TV" tvg-name="Sony TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonyTV" group-title="Hindi",Sony TV
+#EXTINF:-1 tvg-id="Sony TV" tvg-name="Sony TV" tvg-logo="https://i.imgur.com/45hPX07.jpg" group-title="Hindi",Sony TV
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="Sony Wah" tvg-name="Sony Wah" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonyWah" group-title="Hindi",Sony Wah
 http://216.144.250.174/Sony_Mix_HD/index.m3u8
