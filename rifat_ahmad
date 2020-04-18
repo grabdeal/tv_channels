@@ -294,6 +294,71 @@ https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sport Premier League
 https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 
+#Hindi
+#EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/&TV" group-title="Hindi",& TV
+http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="& Prive" tvg-name="& Prive" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/&Prive" group-title="Hindi",& Prive
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/Colors" group-title="Hindi",Colors
+https://bracnet.iptv.jadoodigital.com:443/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="Sony Pal" tvg-name="Sony Pal" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonyPal" group-title="Hindi",Sony Pal
+https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
+#EXTINF:-1 tvg-id="Sony SAB" tvg-name="Sony SAB" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonySAB" group-title="Hindi",Sony SAB
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="Sony Set Max" tvg-name="Sony Set Max" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonySetMax" group-title="Hindi",Sony Set Max
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="Sony TV" tvg-name="Sony TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonyTV" group-title="Hindi",Sony TV
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="Sony Wah" tvg-name="Sony Wah" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonyWah" group-title="Hindi",Sony Wah
+http://216.144.250.174/Sony_Mix_HD/index.m3u8
+#EXTINF:-1 tvg-id="Star Plus" tvg-name="Star Plus" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniBangla.png" group-title="Hindi",Star Plus
+http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Zee Action" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/ATNIslamic.png" group-title="Hindi",Zee Action
+http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Zee Aflam" tvg-name="Zee Aflam" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/ZeeAflam" group-title="Hindi",Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1 tvg-id="Zee Anmol" tvg-name="Zee Anmol" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/ZeeAnmol" group-title="Hindi",Zee Anmol
+http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Hindi",Zee TV
+http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Zee World" tvg-name="Zee World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/IqraBanglaTV.png" group-title="Hindi",Zee World
+http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
+
+#Movies
+#EXTINF:-1 tvg-id="Star Gold" tvg-name="Star Gold" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Movies",Star Gold
+https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
+#EXTINF:-1 tvg-id="Star Gold 2" tvg-name="Star Gold 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Movies",Star Gold 2
+https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Movies",Zee Cinema
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Zee Bollywood" tvg-name="Zee Bollywood" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/ATNIslamic.png" group-title="Movies",Zee Bollywood
+http://216.144.250.174/Zee_ClassIc_HD/index.m3u8
+#EXTINF:-1 tvg-id="Zee Drama" tvg-name="Zee Drama" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/IqraBanglaTV.png" group-title="Movies",Zee Drama
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="& Flix" tvg-name="& Flix" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/&Flix" group-title="Movies",& Flix
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/AMC" group-title="Movies",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/AXN" group-title="Movies",AXN
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="Fox Action Movies" tvg-name="Fox Action Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/FoxActionMovies" group-title="Movies",Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Movies",HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Movies",HBO Hits
+http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sony Pix" tvg-name="Sony Pix" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/SonyPix" group-title="Movies",Sony Pix
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="Star Movies" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniBangla.png" group-title="Movies",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+#EXTINF:-1 tvg-id="Star World" tvg-name="Star World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/StarWorld" group-title="Movies",Star World
+https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
+#EXTINF:-1 tvg-id="TV Western Movies" tvg-name="TV Western Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/TVWesternMovies" group-title="Movies",TV Western Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="Zee Cafe" tvg-name="Zee Cafe" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/ZeeCafe" group-title="Movies",Zee Cafe
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+
 #Kids
 #EXTINF:-1 tvg-id="AnyPlus" tvg-name="AnyPlus" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/AnyPlus.png" group-title="Kids",AnyPlus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
@@ -396,3 +461,34 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 #EXTINF:-1 tvg-id="Zee 24 Ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/e1d81d8ff063f6d187823c1028deb12c.png" group-title="Kolkata Bangla",Zee 24 Ghanta
 http://tvserver.roarzone.info:8082/50/index.m3u8
+
+$Movies
+#EXTINF:-1 tvg-id="B4U Movies" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/B4UMovies" group-title="Movies",B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1 tvg-id="Bflix Movie" tvg-name="Bflix Movie" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/BflixMovie" group-title="Movies",Bflix Movie
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-id="Bollywood Classic" tvg-name="Bollywood Classic" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/BollywoodClassic" group-title="Movies",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/MBCBollywood" group-title="Movies",MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+#EXTINF:-1 tvg-id="Black Cinema" tvg-name="Black Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/BlackCinema" group-title="Movies",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/CinemaWorld" group-title="Movies",Cinema World
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-id="Classic Movies" tvg-name="Classic Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/ClassicMovies" group-title="Movies",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/Hits" group-title="Movies",Hits
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/MBCMax" group-title="Movies",MBC Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/MNX" group-title="Movies",MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-id="Movies 1" tvg-name="Movies 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/Movies1" group-title="Movies",Movies 1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="Movie Kingdom" tvg-name="Movie Kingdom" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/MovieKingdom" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="Movie Zone" tvg-name="Movie Zone" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/MovieZone" group-title="Movies",Movie Zone
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
+#EXTINF:-1 tvg-id="Thrill HD" tvg-name="Thrill HD" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/ThrillHD" group-title="Movies",Thrill HD
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+
