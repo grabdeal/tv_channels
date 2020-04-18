@@ -295,7 +295,7 @@ https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 
 #Hindi
-#EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/&TV" group-title="Hindi",& TV
+#EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi",& TV
 http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="& Prive" tvg-name="& Prive" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/&Prive" group-title="Hindi",& Prive
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
@@ -471,6 +471,10 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/MBCBollywood" group-title="Movies",MBC Bollywood
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+#EXTINF:-1 tvg-id="& Flix" tvg-name="& Flix" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/&Flix" group-title="Movies",& Flix
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/AMC" group-title="Movies",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Black Cinema" tvg-name="Black Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/BlackCinema" group-title="Movies",Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/CinemaWorld" group-title="Movies",Cinema World
