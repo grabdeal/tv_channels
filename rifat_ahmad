@@ -269,8 +269,6 @@ http://195.181.169.120/StarSports_Hd4/playlist.m3u8
 #http://p5.giffy.be:8080/gabi12/gabi12/20731
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSports2.png" group-title="Sports",Star Sports 2
 http://p5.giffy.be:8080/gabi12/gabi12/20731
-#EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports",Star Sports 3
-http://mytv.fun:8080/dwi9faiumb/skdjfbue68yhnd/3977
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect1.png" group-title="Sports",Star Sports Select 1
 http://p5.giffy.be:8080/gabi12/gabi12/20733
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/StarSportsSelect2.png" group-title="Sports",Star Sports Select 2
