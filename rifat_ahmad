@@ -8,9 +8,9 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #http://tvserver.roarzone.info:8082/15/index.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/asian/chunks.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/atn%20bangla.png" group-title="Bangladesh",ATN Bangla
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #http://tvserver.roarzone.info:8082/16/index.m3u8
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/atnbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ATN%20News.png" group-title="Bangladesh",ATN News
 #https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
