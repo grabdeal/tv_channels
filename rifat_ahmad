@@ -86,9 +86,8 @@ https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Bangladesh",Gazi TV
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
-#http://tvserver.roarzone.info:8082/1/index.m3u8
-#http://103.111.120.46/hls/gazi-tv.m3u8
+#http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+http://103.111.120.46/hls/gazi-tv.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Independent TV" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Independent.png" group-title="Bangladesh",Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
@@ -118,7 +117,7 @@ https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #http://tvserver.roarzone.info:8082/31/index.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV (UK)" tvg-name="NTV (UK)" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NTVUK.png" group-title="Bangladesh",NTV (UK)
-http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NTV (US)" tvg-name="NTV (US)" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NTV.png" group-title="Bangladesh",NTV (US)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-id="Nagorik TV" tvg-name="Nagorik TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/NagorikTV.png" group-title="Bangladesh",Nagorik TV
