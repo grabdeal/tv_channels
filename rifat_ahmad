@@ -450,100 +450,127 @@ http://tvserver.roarzone.info:8082/50/index.m3u8
 #EXTINF:-1 tvg-id="Zee News" tvg-name="Zee News" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Kids/ZeeNews.png" group-title="News",Zee News
 http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
 
+#Music
+#EXTINF:-1 tvg-id="ATN Music" tvg-name="ATN Music" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music",ATN Music
+http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bangla Talkies" tvg-name="Bangla Talkies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/BanglaTalkies.png" group-title="Music",Bangla Talkies
+https://streamhoichoi.multitvsolution.in/live/BanglaTalkies-h/p4.m3u8
+#EXTINF:-1 tvg-id="Gaan Bangla" tvg-name="Gaan Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Music",Gaan Bangla
+https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:-1 tvg-id="RTV Music" tvg-name="RTV Music" tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Music",RTV Music
+http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Sangeet Bangla" tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/SangeetBangla.png" group-title="Music",Sangeet Bangla
+http://103.121.36.238:8081/live/sangeetbangla/chunks.m3u8
+#EXTINF:-1 tvg-id="9xM" tvg-name="9xM" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/9xM.png" group-title="Music",9xM
+http://z5amshls.akamaized.net/9xm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="9xO" tvg-name="9xO" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/9xO.png" group-title="Music",9xO
+http://z5amshls.akamaized.net/9xo/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="9x Jalwa" tvg-name="9x Jalwa" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/9xJalwa.png" group-title="Music",9x Jalwa
+http://z5amshls.akamaized.net/9xjalwa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="B4U Music" tvg-name="B4U Music" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/B4UMusic.png" group-title="Music",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MTV.png" group-title="Music",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="MTV Beats" tvg-name="MTV Beats" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MTVBeats.png" group-title="Music",MTV Beats
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 tvg-id="Zing" tvg-name="Zing" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/Zing.png" group-title="Music",Zing
+http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
+#EXTINF:-1 tvg-id="Zoom" tvg-name="Zoom" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/Zoom.png" group-title="Music",Zoom
+http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+
 #SportsExtra
-#EXTINF:-1 tvg-id="" tvg-name="ES: beIN Sports LaLiga HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: beIN Sports LaLiga HD
+#EXTINF:-1 tvg-id="" tvg-name="ES beIN Sports LaLiga HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",ES beIN Sports LaLiga HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/84193
-#EXTINF:-1 tvg-id="" tvg-name="ES: beIN Sports LaLiga 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: beIN Sports LaLiga 2
+#EXTINF:-1 tvg-id="" tvg-name="ES beIN Sports LaLiga 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",ES beIN Sports LaLiga 2
 http://amigotv.online:8080/faucontv/2c248b3e1d35/90722
-#EXTINF:-1 tvg-id="" tvg-name="ES: beIN Sports LaLiga 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: beIN Sports LaLiga 3
+#EXTINF:-1 tvg-id="" tvg-name="ES beIN Sports LaLiga 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",ES beIN Sports LaLiga 3
 http://amigotv.online:8080/faucontv/2c248b3e1d35/90723
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/453c691cfb9b99b4edb2dc66fb3c02cc.png" group-title="Arabic",AR: beIN Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/453c691cfb9b99b4edb2dc66fb3c02cc.png" group-title="Sports",AR beIN Sports HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/11306
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/f89e6a493f43c8eaa4dec4cab054a580.png" group-title="Arabic",AR: beIN Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/f89e6a493f43c8eaa4dec4cab054a580.png" group-title="Sports",AR beIN Sports 1 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/100
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/17dc1eb7e7c1be2b20c3d3b184f6d30e.png" group-title="Arabic",AR: beIN Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/17dc1eb7e7c1be2b20c3d3b184f6d30e.png" group-title="Sports",AR beIN Sports 2 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/101
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="Arabic",AR: beIN Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="Sports",AR beIN Sports 3 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/102
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/14ff9bf1b41ac4ce0f0ed21fc112afcd.png" group-title="Arabic",AR: beIN Sports 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/14ff9bf1b41ac4ce0f0ed21fc112afcd.png" group-title="Sports",AR beIN Sports 4 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/103
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/062335b206269a6a5c02559d8e4e426e.png" group-title="Arabic",AR: beIN Sports 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/062335b206269a6a5c02559d8e4e426e.png" group-title="Sports",AR beIN Sports 5 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/104
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/54048002161a540135597a92d0e8dd1e.png" group-title="Arabic",AR: beIN Sports 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/54048002161a540135597a92d0e8dd1e.png" group-title="Sports",AR beIN Sports 6 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/105
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/5383b47924c567e4ff80e1ba3ea1fd4a.png" group-title="Arabic",AR: beIN Sports 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/5383b47924c567e4ff80e1ba3ea1fd4a.png" group-title="Sports",AR beIN Sports 7 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/106
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/a7ed150b839370633953b8bb3d2f2322.png" group-title="Arabic",AR: beIN Sports 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/a7ed150b839370633953b8bb3d2f2322.png" group-title="Sports",AR beIN Sports 8 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/107
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 9 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/887cfd409cbbb527a13b56e64c3e1b4c.png" group-title="Arabic",AR: beIN Sports 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 9 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/887cfd409cbbb527a13b56e64c3e1b4c.png" group-title="Sports",AR beIN Sports 9 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/108
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 10 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/bb7043386333fdb21a0d4a2eb0880b12.png" group-title="Arabic",AR: beIN Sports 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 10 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/bb7043386333fdb21a0d4a2eb0880b12.png" group-title="Sports",AR beIN Sports 10 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/109
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 11 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/71b3886dfd8ef7458981d8944068b5ff.png" group-title="Arabic",AR: beIN Sports 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 11 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/71b3886dfd8ef7458981d8944068b5ff.png" group-title="Sports",AR beIN Sports 11 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/110
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 12 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/0887cab963deb238e9bb83095897d5ae.png" group-title="Arabic",AR: beIN Sports 12 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 12 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/0887cab963deb238e9bb83095897d5ae.png" group-title="Sports",AR beIN Sports 12 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/111
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 13 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/c8dfcf787b5776b00acc7bb4565c543e.png" group-title="Arabic",AR: beIN Sports 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 13 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/c8dfcf787b5776b00acc7bb4565c543e.png" group-title="Sports",AR beIN Sports 13 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/1868
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports GLOBAL" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/9bb5df72e278eae4ebdb0444daabd45e.png" group-title="Arabic",AR: beIN Sports GLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports GLOBAL" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/9bb5df72e278eae4ebdb0444daabd45e.png" group-title="Sports",AR beIN Sports GLOBAL
 http://amigotv.online:8080/faucontv/2c248b3e1d35/16779
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 1 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/144
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 2 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/145
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 3 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/146
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 4 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/69932
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 5
 http://amigotv.online:8080/faucontv/2c248b3e1d35/52227
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 6 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/52228
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 7
 http://amigotv.online:8080/faucontv/2c248b3e1d35/52232
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 8 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/52259
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 9 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/52222
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 10 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Sports 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR beIN Sports 10 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",FR beIN Sports 10 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/52245
-#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports 1 HD" tvg-logo="" group-title="UK",UK: beIN Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK beIN Sports 1 HD" tvg-logo="" group-title="Sports",UK beIN Sports 1 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/151143
-#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports 2 HD" tvg-logo="" group-title="UK",UK: beIN Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK beIN Sports 2 HD" tvg-logo="" group-title="Sports",UK beIN Sports 2 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/151144
-#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports 7 HD" tvg-logo="" group-title="UK",UK: beIN Sports 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK beIN Sports 7 HD" tvg-logo="" group-title="Sports",UK beIN Sports 7 HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/151145
-#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports 12" tvg-logo="" group-title="UK",UK: beIN Sports 12
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 1 HD" tvg-logo="" group-title="USA",US: beIN Sports 1 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151020
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 2" tvg-logo="" group-title="USA",US: beIN Sports 2
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151022
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3 HD" tvg-logo="" group-title="USA",US: beIN Sports 3 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151025
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 4 HD" tvg-logo="" group-title="USA",US: beIN Sports 4 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151024
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 5 HD" tvg-logo="" group-title="USA",US: beIN Sports 5 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151026
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 6 HD" tvg-logo="" group-title="USA",US: beIN Sports 6 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151030
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 7 HD" tvg-logo="" group-title="USA",US: beIN Sports 7 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151028
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 8 Connect" tvg-logo="" group-title="USA",US: beIN Sports 8 Connect
-http://amigotv.online:8080/faucontv/2c248b3e1d35/157321
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 8 HD" tvg-logo="" group-title="USA",US: beIN Sports 8 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151032
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 9 HD" tvg-logo="" group-title="USA",US: beIN Sports 9 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151031
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 10 HD" tvg-logo="" group-title="USA",US: beIN Sports 10 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151033
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 12 HD" tvg-logo="" group-title="USA",US: beIN Sports 12 HD
-http://amigotv.online:8080/faucontv/2c248b3e1d35/151027
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: beIN Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="UK beIN Sports 12" tvg-logo="" group-title="Sports",UK beIN Sports 12
+http://amigotv.online:8080/faucontv/2c248b3e1d35/157396
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",US beIN Sports HD
 http://amigotv.online:8080/faucontv/2c248b3e1d35/2272
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports LaLiga" tvg-logo="" group-title="USA",US: beIN Sports LaLiga
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports LaLiga" tvg-logo="" group-title="Sports",US beIN Sports LaLiga
 http://amigotv.online:8080/faucontv/2c248b3e1d35/146001
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: beIN Sports USA
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",US beIN Sports USA
 http://amigotv.online:8080/faucontv/2c248b3e1d35/6300
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 1 HD" tvg-logo="" group-title="Sports",US beIN Sports 1 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151020
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 2" tvg-logo="" group-title="Sports",US beIN Sports 2
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151022
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 3 HD" tvg-logo="" group-title="Sports",US beIN Sports 3 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151025
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 4 HD" tvg-logo="" group-title="Sports",US beIN Sports 4 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151024
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 5 HD" tvg-logo="" group-title="Sports",US beIN Sports 5 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151026
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 6 HD" tvg-logo="" group-title="Sports",US beIN Sports 6 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151030
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 7 HD" tvg-logo="" group-title="Sports",US beIN Sports 7 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151028
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 8 HD" tvg-logo="" group-title="Sports",US beIN Sports 8 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151032
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 9 HD" tvg-logo="" group-title="Sports",US beIN Sports 9 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151031
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 10 HD" tvg-logo="" group-title="Sports",US beIN Sports 10 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151033
+#EXTINF:-1 tvg-id="" tvg-name="US beIN Sports 12 HD" tvg-logo="" group-title="Sports",US beIN Sports 12 HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/151027
 
 #BanglaIPTV
 #EXTINF:-1 tvg-id="Alif TV" tvg-name="Alif TV" tvg-logo="hhttps://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="Bangladesh",Alif TV
@@ -607,6 +634,11 @@ http://23.106.120.40:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-id="Varendra TV" tvg-name="Varendra TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangladesh/VarendraTV.png" group-title="Bangladesh",Varendra TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 
+#Infotainment
+#EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Infotainment",IN: Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Xp HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Infotainment",IN: Travel Xp HD
+http://amigotv.online:8080/faucontv/2c248b3e1d35/82636
 
 $Movies
 #EXTINF:-1 tvg-id="B4U Movies" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/B4UMovies" group-title="Movies",B4U Movies
@@ -639,6 +671,30 @@ http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="Movie Zone" tvg-name="Movie Zone" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/MovieZone" group-title="Movies",Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
+#EXTINF:-1,The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 tvg-id="Thrill HD" tvg-name="Thrill HD" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/ThrillHD" group-title="Movies",Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
+#Music
+#EXTINF:-1 tvg-id="Box Hits" tvg-name="Box Hits" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/BoxHits.png" group-title="Music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="Djing Hits" tvg-name="Djing Hits" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/DjingHits.png" group-title="Music",Djing Hits
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-id="Jhanjar Music" tvg-name="Jhanjar Music" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/JhanjarMusic.png" group-title="Music",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="Music 24" tvg-name="Music 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/Music24.png" group-title="Music",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-id="Music Box" tvg-name="Music Box" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MusicBox.png" group-title="Music",Music Box
+http://212.26.132.86/hls/mb_ua.m3u8
+#EXTINF:-1 tvg-id="Music India" tvg-name="Music India" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MusicIndia.png" group-title="Music",Music India
+http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 tvg-id="Music Mastii" tvg-name="Music Mastii" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MusicMastii.png" group-title="Music",Music Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="Music Now" tvg-name="Music Now" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MusicNow.png" group-title="Music",Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1 tvg-id="MX" tvg-name="MX" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/MX.png" group-title="Music",MX
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="PUBLIC MUSIC" tvg-name="PUBLIC MUSIC" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/PUBLICMUSIC.png" group-title="Music",PUBLIC MUSIC
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
