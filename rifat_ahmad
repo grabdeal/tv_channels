@@ -176,7 +176,8 @@ https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-id="Tele Film" tvg-name="Tele Film" tvg-logo="https://i.imgur.com/2I5ji2s_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Kolkata Bangla",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBangla.png" group-title="Kolkata Bangla",Zee Bangla
-http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
+#http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
 #http://z5amshls.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
