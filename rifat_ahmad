@@ -260,7 +260,7 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hd
 #http://103.58.73.26/streams/106/index.m3u8
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
 http://103.58.73.26/streams/110/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/94768_54049_starsports1.jpgg" group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/94768_54049_starsports1.jpg" group-title="Sports",Star Sports 1
 http://195.181.169.120/StarSports_Hd4/playlist.m3u8
 #http://p5.giffy.be:8080/gabi12/gabi12/20731
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports",Star Sports 2
