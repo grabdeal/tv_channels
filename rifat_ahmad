@@ -181,8 +181,9 @@ http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
 #https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
+http://amigotv.online:8080/faucontv/2c248b3e1d35/21658
 #http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
-http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+#http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 
 #Islamic
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
@@ -298,8 +299,8 @@ https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
 #http://amigotv.online:8080/faucontv/2c248b3e1d35/260
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93885_89284_skyleauge.jpg" group-title="Sports",Sky Sport Premier League
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/263
-https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+http://amigotv.online:8080/faucontv/2c248b3e1d35/263
+#https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 
 #Hindi
 #EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi",& TV
