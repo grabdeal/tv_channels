@@ -78,9 +78,8 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #http://tvserver.roarzone.info:8082/26/index.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/duronto/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekattor TV" tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekattor.png" group-title="Bangladesh",Ekattor TV
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#http://tvserver.roarzone.info:8082/27/index.m3u8
-#https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
+http://amigotv.online:8080/faucontv/2c248b3e1d35/69348
+#https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekushe.png" group-title="Bangladesh",Ekushe TV
 #http://tvserver.roarzone.info:8082/28/index.m3u8
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
@@ -278,8 +277,8 @@ http://amigotv.online:8080/faucontv/2c248b3e1d35/700
 http://amigotv.online:8080/faucontv/2c248b3e1d35/743
 #https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/97531_skycricket.jpg" group-title="Sports",Sky Sports Cricket
-http://amigotv.online:8080/faucontv/2c248b3e1d35/269
-#https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+#http://amigotv.online:8080/faucontv/2c248b3e1d35/269
+https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/51391_13208_skyf1new.jpg" group-title="Sports",Sky Sport F1
 http://amigotv.online:8080/faucontv/2c248b3e1d35/265
 #https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
