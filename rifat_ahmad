@@ -78,8 +78,7 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #http://tvserver.roarzone.info:8082/26/index.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/duronto/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekattor TV" tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekattor.png" group-title="Bangladesh",Ekattor TV
-http://amigotv.online:8080/faucontv/2c248b3e1d35/69348
-#https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekushe.png" group-title="Bangladesh",Ekushe TV
 #http://tvserver.roarzone.info:8082/28/index.m3u8
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
@@ -150,7 +149,7 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #KolkataBangla
 #EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/AkashAath.png" group-title="Kolkata Bangla",Akash Aath
-http://livetv.grabdeal.xyz/akashaath
+http://103.205.133.42:1935/live/akash_aath_240/index.m3u8
 #http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 #https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
 #EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
@@ -161,8 +160,7 @@ http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
 #EXTINF:-1 tvg-id="Ruposhi Bangla" tvg-name="Ruposhi Bangla" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/1005371_443276535777045_839348799_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_eui2=AeF9YcGqDExtAKNRiYTf98pyTra1WvUIWYdOtrVa9QhZh9eOuNQlTxR-HVTWS3PN8umrxxNzRGY_gZqf2cD22s2W&_nc_ohc=XXicOAnJXOEAX9_-rcG&_nc_ht=scontent.fdac74-1.fna&oh=419a67c105208d236f102dc5ffbc39f5&oe=5EB70B98" group-title="Kolkata Bangla",Ruposhi Bangla
 http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonyAath.png" group-title="Kolkata Bangla",Sony Aath
-http://amigotv.online:8080/faucontv/2c248b3e1d35/17005
-#https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+http://103.205.133.42:1935/live/sony_aath_240/index.m3u8
 #http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarJalsha.png" group-title="Kolkata Bangla",Star Jalsha
@@ -181,9 +179,8 @@ http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
 #http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
 #https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBanglaCinema.png" group-title="Kolkata Bangla",Zee Bangla Cinema
-http://amigotv.online:8080/faucontv/2c248b3e1d35/21658
 #http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
-#http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 
 #Islamic
 #EXTINF:-1 tvg-id="Al Dawah TV" tvg-name="Al Dawah TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Religion",Al Dawah TV
