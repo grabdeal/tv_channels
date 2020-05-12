@@ -254,46 +254,35 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hd
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
 http://103.58.73.26/streams/110/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/94768_54049_starsports1.jpg" group-title="Sports",Star Sports 1
-http://195.181.169.120/StarSports_Hd4/playlist.m3u8
-#http://p5.giffy.be:8080/gabi12/gabi12/20731
+http://103.81.104.222/live/starsport-s1hd/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports",Star Sports 2
-http://amigotv.online:8080/faucontv/2c248b3e1d35/3631
+http://103.58.73.26/streams/1016/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/19326_32980_starsports3.jpg" group-title="Sports",Star Sports 3
 http://amigotv.online:8080/faucontv/2c248b3e1d35/62584
 #EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports",Star Sports Select 1
-http://p5.giffy.be:8080/gabi12/gabi12/20733
+http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports",Star Sports Select 2
-http://amigotv.online:8080/faucontv/2c248b3e1d35/82628
+http://103.81.104.222/live/startsports-select-2hd/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/26961_30968_skyaction.jpg" group-title="Sports",Sky Sport Action
 https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/700
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/59946_17287_skyarena.jpg" group-title="Sports",Sky Sport Arena
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/743
 https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/97531_skycricket.jpg" group-title="Sports",Sky Sports Cricket
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/269
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/97531_skycricket.jpg" group-title="Sports",Sky Sports Cricket#http://amigotv.online:8080/faucontv/2c248b3e1d35/269
 https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/51391_13208_skyf1new.jpg" group-title="Sports",Sky Sport F1
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/265
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49678_3243_skyfootball.jpg" group-title="Sports",Sky Sport Football
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/710
 https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/46453_40768_skygolf.jpg" group-title="Sports",Sky Sport Golf
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/264
 https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Main Event" tvg-name="Sky Sport Main Event" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93329_43621_skymainevent.jpg" group-title="Sports",Sky Sport Main Event
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/147054
 https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Mix" tvg-name="Sky Sport Mix" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/14895_65882_skymixnew.jpg" group-title="Sports",Sky Sport Mix
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/261
 https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/86525_73040_skynewsnew.jpg" group-title="Sports",Sky Sport News
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/260
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93885_89284_skyleauge.jpg" group-title="Sports",Sky Sport Premier League
-http://amigotv.online:8080/faucontv/2c248b3e1d35/263
-#https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 
 #Hindi
 #EXTINF:-1 tvg-id="& TV" tvg-name="& TV" tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi",& TV
