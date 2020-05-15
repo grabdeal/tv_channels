@@ -294,7 +294,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="Fox Action Movies" tvg-name="Fox Action Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/FoxActionMovies" group-title="Movies",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://www.logotypes101.com/logos/464/ED57746DA0254FFEB18443A95B84414B/fox-life.png" group-title="Infotainment",Fox Life
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://www.logotypes101.com/logos/464/ED57746DA0254FFEB18443A95B84414B/fox-life.png" group-title="Movies",Fox Life
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Movies",HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
