@@ -226,7 +226,7 @@ http://103.81.104.222/live/startsports-select-2hd/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/59946_17287_skyarena.jpg" group-title="Sports",Sky Sport Arena
 https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/97531_skycricket.jpg" group-title="Sports",Sky Sports Cricket#http://amigotv.online:8080/faucontv/2c248b3e1d35/269
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/97531_skycricket.jpg" group-title="Sports",Sky Sports Cricket
 https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/51391_13208_skyf1new.jpg" group-title="Sports",Sky Sport F1
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
