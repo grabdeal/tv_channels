@@ -216,10 +216,10 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hd
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
 http://103.58.73.26/streams/110/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/94768_54049_starsports1.jpg" group-title="Sports",Star Sports 1
-http://stream-7b694ce7e.nmbs.top/m3u/Sports/75ad237b8e.m3u8
-#http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
+http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports",Star Sports 2
 http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
+#http://stream-7b694ce7e.nmbs.top/m3u/Sports/75ad237b8e.m3u8
 #http://stream-7b694ce7e.nmbs.top/m3u/Sports/31dac81715.m3u8
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/19326_32980_starsports3.jpg" group-title="Sports",Star Sports 3
 http://stream-7b694ce7e.nmbs.top/m3u/Sports/2443a07391.m3u8
