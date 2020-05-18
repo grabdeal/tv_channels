@@ -28,7 +28,8 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%209.png" group-title="Bangladesh",Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/e327dc79d1.m3u8
+#https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #http://103.58.73.26/streams/102/index.m3u8
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%2024.png" group-title="Bangladesh",Channel 24
 #https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
@@ -106,7 +107,8 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #KolkataBangla
 #EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/AkashAath.png" group-title="Kolkata Bangla",Akash Aath
-http://103.205.133.42:1935/live/akash_aath_240/index.m3u8
+http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/93c0ee742f.m3u8
+#http://103.205.133.42:1935/live/akash_aath_240/index.m3u8
 #http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
@@ -116,9 +118,9 @@ http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
 http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/12c6105b3e.m3u8
 #http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/SonyAath.png" group-title="Kolkata Bangla",Sony Aath
-http://103.205.133.42:1935/live/sony_aath_240/index.m3u8
+http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/5a373a3cef.m3u8
+#http://103.205.133.42:1935/live/sony_aath_240/index.m3u8
 #http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
-#http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/StarJalsha.png" group-title="Kolkata Bangla",Star Jalsha
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
