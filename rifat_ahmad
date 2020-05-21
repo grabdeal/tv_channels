@@ -128,8 +128,8 @@ http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/5a373a3cef.m3u8
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
 #EXTINF:-1 tvg-id="Jalsha Movies" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/JalshaMovies.png" group-title="Kolkata Bangla",Jalsha Movies
-http://175.41.46.16:8081/hls/4.m3u8
-#https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#http://175.41.46.16:8081/hls/4.m3u8
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #http://103.58.73.26/streams/115/index.m3u8
 #EXTINF:-1 tvg-id="Tele Film" tvg-name="Tele Film" tvg-logo="https://i.imgur.com/2I5ji2s_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Kolkata Bangla",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
