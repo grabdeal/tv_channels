@@ -57,9 +57,9 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/5a721e561e.m3u8
 #EXTINF:-1 tvg-id="Ekushe TV" tvg-name="Ekushe TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ekushe.png" group-title="Bangladesh",Ekushe TV
-http://175.41.46.16:8081/hls/11.m3u8
+#http://175.41.46.16:8081/hls/11.m3u8
 #https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#http://ddn.amrbd.com:8081/live/ekushey/playlist.m3u8
+http://ddn.amrbd.com:8081/live/ekushey/playlist.m3u8
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/Gazi%20TV.png" group-title="Bangladesh",Gazi TV
 #http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 http://103.111.120.46/hls/gazi-tv.m3u8
@@ -72,9 +72,9 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #http://103.144.200.7:8080/hls/jamunatv/index.m3u8
 #EXTINF:-1 tvg-id="Maasranga" tvg-name="Maasranga" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/maasranga.png" group-title="Bangladesh",Maasranga
-http://175.41.46.16:8081/hls/10.m3u8
+#http://175.41.46.16:8081/hls/10.m3u8
 #https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#http://ddn.amrbd.com:8081/live/maasranga/playlist.m3u8
+http://ddn.amrbd.com:8081/live/maasranga/playlist.m3u8
 #EXTINF:-1 tvg-id="Mohona TV" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/mohona%20tv.png" group-title="Bangladesh",Mohona TV
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -110,8 +110,8 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #KolkataBangla
 #EXTINF:-1 tvg-id="Akash Aath" tvg-name="Akash Aath" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/AkashAath.png" group-title="Kolkata Bangla",Akash Aath
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/93c0ee742f.m3u8
-#http://103.205.133.42:1935/live/akash_aath_240/index.m3u8
+#http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/93c0ee742f.m3u8
+http://103.205.133.42:1935/live/akash_aath_240/index.m3u8
 #http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
@@ -134,8 +134,8 @@ https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-id="Tele Film" tvg-name="Tele Film" tvg-logo="https://i.imgur.com/2I5ji2s_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Kolkata Bangla",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ZeeBangla.png" group-title="Kolkata Bangla",Zee Bangla
-http://175.41.46.16:8081/hls/6.m3u8
-#http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
+#http://175.41.46.16:8081/hls/6.m3u8
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
 #http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
 #http://z5amshls.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
