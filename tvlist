@@ -128,7 +128,7 @@ http://livetv.grabdeal.xyz/animalplanethindi
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA" group-title="Infotainment",BBC Earth
 http://livetv.grabdeal.xyz/bbcearth
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryChannel.png" group-title="Infotainment",Discovery Channel
-http://103.205.133.42:1935/live/discovery_hd_720/index.m3u8
+http://livetv.grabdeal.xyz/discovery
 #EXTINF:-1 tvg-id="Discovery Bangla" tvg-name="Discovery Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryChannel.png" group-title="Infotainment",Discovery Bangla
 http://livetv.grabdeal.xyz/discoverybangla
 #EXTINF:-1 tvg-id="Discovery Hindi" tvg-name="Discovery Hindi" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Infotainment/DiscoveryChannel.png" group-title="Infotainment",Discovery Hindi
