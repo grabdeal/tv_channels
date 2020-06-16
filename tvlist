@@ -446,15 +446,15 @@ http://livetv.grabdeal.xyz/foxsport1
 http://livetv.grabdeal.xyz/foxsport2
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3
 http://livetv.grabdeal.xyz/foxsport3
-#EXTINF:-1 tvg-id="Skynet Sports 1" tvg-name="Skynet Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/75741_beinfr3.jpg" group-title="Sports",Skynet Sports 1
+#EXTINF:-1 tvg-id="Skynet Sports 1" tvg-name="Skynet Sports 1" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-1-272.png" group-title="Sports",Skynet Sports 1
 http://livetv.grabdeal.xyz/skynetsports1
-#EXTINF:-1 tvg-id="Skynet Sports 2" tvg-name="Skynet Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/75741_beinfr3.jpg" group-title="Sports",Skynet Sports 2
+#EXTINF:-1 tvg-id="Skynet Sports 2" tvg-name="Skynet Sports 2" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-2-273.png" group-title="Sports",Skynet Sports 2
 http://livetv.grabdeal.xyz/skynetsports2
-#EXTINF:-1 tvg-id="Skynet Sports 3" tvg-name="Skynet Sports 3" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/75741_beinfr3.jpg" group-title="Sports",Skynet Sports 3
+#EXTINF:-1 tvg-id="Skynet Sports 3" tvg-name="Skynet Sports 3" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-3-274.png" group-title="Sports",Skynet Sports 3
 http://livetv.grabdeal.xyz/skynetsports3
-#EXTINF:-1 tvg-id="Skynet Sports 4" tvg-name="Skynet Sports 4" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/75741_beinfr3.jpg" group-title="Sports",Skynet Sports 4
+#EXTINF:-1 tvg-id="Skynet Sports 4" tvg-name="Skynet Sports 4" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-4-275.png" group-title="Sports",Skynet Sports 4
 http://livetv.grabdeal.xyz/skynetsports4
-#EXTINF:-1 tvg-id="Skynet Sports 5" tvg-name="Skynet Sports 5" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/75741_beinfr3.jpg" group-title="Sports",Skynet Sports 5
+#EXTINF:-1 tvg-id="Skynet Sports 5" tvg-name="Skynet Sports 5" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-5-276.png" group-title="Sports",Skynet Sports 5
 http://livetv.grabdeal.xyz/skynetsports5
 #EXTINF:-1 tvg-id="PTV Sports" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/PTVSports.png" group-title="Sports",PTV Sports
 http://livetv.grabdeal.xyz/ptvsport
