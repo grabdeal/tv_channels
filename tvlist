@@ -611,3 +611,17 @@ http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="PUBLIC MUSIC" tvg-name="PUBLIC MUSIC" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/PUBLICMUSIC.png" group-title="Music",PUBLIC MUSIC
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+#Bangla Series
+#EXTINF:-1 tvg-id="August 14 Season 1 Episode 1" tvg-name="August 14 Season 1 Episode 1" tvg-logo="https://ss.binge.buzz/uploads/products/thumbs/4hhRL3RHwppMw4UeFEQYXlwSgr1SCR3AwY.png" group-title="Bangla Series",August 14 Season 1 Episode 1
+http://livetv.grabdeal.xyz/august14s1e1
+#EXTINF:-1 tvg-id="August 14 Season 1 Episode 2" tvg-name="August 14 Season 1 Episode 2" tvg-logo="https://ss.binge.buzz/uploads/products/thumbs/4hhRL3RHwppMw4UeFEQYXlwSgr1SCR3AwY.png" group-title="Bangla Series",August 14 Season 1 Episode 2
+http://livetv.grabdeal.xyz/august14s1e2
+#EXTINF:-1 tvg-id="August 14 Season 1 Episode 3" tvg-name="August 14 Season 1 Episode 3" tvg-logo="https://ss.binge.buzz/uploads/products/thumbs/4hhRL3RHwppMw4UeFEQYXlwSgr1SCR3AwY.png" group-title="Bangla Series",August 14 Season 1 Episode 3
+http://livetv.grabdeal.xyz/august14s1e3
+#EXTINF:-1 tvg-id="August 14 Season 1 Episode 4" tvg-name="August 14 Season 1 Episode 4" tvg-logo="https://ss.binge.buzz/uploads/products/thumbs/4hhRL3RHwppMw4UeFEQYXlwSgr1SCR3AwY.png" group-title="Bangla Series",August 14 Season 1 Episode 4
+http://livetv.grabdeal.xyz/august14s1e4
+#EXTINF:-1 tvg-id="August 14 Season 1 Episode 5" tvg-name="August 14 Season 1 Episode 5" tvg-logo="https://ss.binge.buzz/uploads/products/thumbs/4hhRL3RHwppMw4UeFEQYXlwSgr1SCR3AwY.png" group-title="Bangla Series",August 14 Season 1 Episode 5
+http://livetv.grabdeal.xyz/august14s1e5
+#EXTINF:-1 tvg-id="August 14 Season 1 Episode 6" tvg-name="August 14 Season 1 Episode 6" tvg-logo="https://ss.binge.buzz/uploads/products/thumbs/4hhRL3RHwppMw4UeFEQYXlwSgr1SCR3AwY.png" group-title="Bangla Series",August 14 Season 1 Episode 6
+http://livetv.grabdeal.xyz/august14s1e6
