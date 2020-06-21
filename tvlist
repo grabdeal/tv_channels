@@ -160,6 +160,16 @@ http://livetv.grabdeal.xyz/tlc
 http://livetv.grabdeal.xyz/rtdocumentary
 
 #Sports
+#EXTINF:-1 tvg-id="Live Sports Event 1" tvg-name="Live Sports Event 1" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 1
+http://livetv.grabdeal.xyz/livesportsevent1
+#EXTINF:-1 tvg-id="Live Sports Event 2" tvg-name="Live Sports Event 2" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 2
+http://livetv.grabdeal.xyz/livesportsevent2
+#EXTINF:-1 tvg-id="Live Sports Event 3" tvg-name="Live Sports Event 3" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 3
+http://livetv.grabdeal.xyz/livesportsevent3
+#EXTINF:-1 tvg-id="Live Sports Event 4" tvg-name="Live Sports Event 4" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 4
+http://livetv.grabdeal.xyz/livesportsevent4
+#EXTINF:-1 tvg-id="Live Sports Event 5" tvg-name="Live Sports Event 5" tvg-logo="https://i.pinimg.com/564x/d7/13/d9/d713d90c4610062fdc827b4a8d374433.jpg" group-title="Sports",Live Sports Event 5
+http://livetv.grabdeal.xyz/livesportsevent5
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports",Sony Ten 1
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1582605000_4b1c79efce6656ccd86924f6e1e75b93
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen2.png" group-title="Sports",Sony Ten 2
