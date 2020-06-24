@@ -466,6 +466,8 @@ http://livetv.grabdeal.xyz/skynetsports3
 http://livetv.grabdeal.xyz/skynetsports4
 #EXTINF:-1 tvg-id="Skynet Sports 5" tvg-name="Skynet Sports 5" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-5-276.png" group-title="Sports",Skynet Sports 5
 http://livetv.grabdeal.xyz/skynetsports5
+#EXTINF:-1 tvg-id="Skynet Sports 6" tvg-name="Skynet Sports 6" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-6-277.png" group-title="Sports",Skynet Sports 6
+http://livetv.grabdeal.xyz/skynetsports6
 #EXTINF:-1 tvg-id="PTV Sports" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/PTVSports.png" group-title="Sports",PTV Sports
 http://livetv.grabdeal.xyz/ptvsport
 #EXTINF:-1 tvg-id="DD Sports" tvg-name="DD Sports" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/DDSports.png" group-title="Sports",DD Sports
