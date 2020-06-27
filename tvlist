@@ -18,7 +18,8 @@ http://livetv.grabdeal.xyz/bijoytv
 #EXTINF:-1 tvg-id="Boishakhi TV" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="Bangladesh",Boishakhi TV
 http://livetv.grabdeal.xyz/boishakhitv
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://i.imgur.com/E4wEagn.png" group-title="Bangladesh",BTV
-http://livetv.grabdeal.xyz/btv
+http://103.141.66.36/bpk-tv/10330/default/manifest.mpd?=.m3u8
+#http://livetv.grabdeal.xyz/btv
 #EXTINF:-1 tvg-id="BTV World" tvg-name="BTV World" tvg-logo="https://i.imgur.com/XiBSAHP.png" group-title="Bangladesh",BTV World
 http://livetv.grabdeal.xyz/btvworld
 #EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/uT0kyI0.png" group-title="Bangladesh",Channel 9
