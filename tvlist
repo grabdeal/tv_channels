@@ -86,8 +86,6 @@ http://livetv.grabdeal.xyz/sangshadbangladesh
 http://livetv.grabdeal.xyz/akashaath
 #EXTINF:-1 tvg-id="Colors Bangla" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla",Colors Bangla
 http://livetv.grabdeal.xyz/colorsbangla
-#EXTINF:-1 tvg-id="Orange Bangla" tvg-name="Orange Bangla" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/40684127_1962428110492940_7685972155195981824_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_eui2=AeHRYgVX3tIZ4RqKQrwxBXbqMBCGJHmwRKMwEIYkebBEozqM3quautoEP6Ut5O1-X8yW59bTYU-2kFOGcfEGblGN&_nc_ohc=cHkb4sB2yZIAX8d-oXQ&_nc_ht=scontent.fdac74-1.fna&oh=e69c4491a67f35e54887bc065b549133&oe=5EB784D6" group-title="Kolkata Bangla",Orange Bangla
-http://livetv.grabdeal.xyz/orangebangla
 #EXTINF:-1 tvg-id="Ruposhi Bangla" tvg-name="Ruposhi Bangla" tvg-logo="https://i.imgur.com/Wtm36U4.png" group-title="Kolkata Bangla",Ruposhi Bangla
 http://livetv.grabdeal.xyz/ruposhibangla
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/158HlVC.png" group-title="Kolkata Bangla",Sony Aath
@@ -96,8 +94,8 @@ http://livetv.grabdeal.xyz/sonyaath
 http://livetv.grabdeal.xyz/starjalsha
 #EXTINF:-1 tvg-id="Jalsha Movies" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/JalshaMovies.png" group-title="Kolkata Bangla",Jalsha Movies
 http://livetv.grabdeal.xyz/jalshamovies
-#EXTINF:-1 tvg-id="Tele Film" tvg-name="Tele Film" tvg-logo="https://i.imgur.com/2I5ji2s_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Kolkata Bangla",Tele Film
-http://livetv.grabdeal.xyz/telefilm
+
+
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/9UFJ2nd.png" group-title="Kolkata Bangla",Zee Bangla
 http://103.141.66.36/bpk-tv/10185/default/manifest.mpd
 #http://livetv.grabdeal.xyz/zeebangla
@@ -182,8 +180,8 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hd
 #EXTINF:-1 tvg-id="Sony ESPN" tvg-name="Sony ESPN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyESPN.png" group-title="Sports",Sony ESPN
 http://103.58.73.26/streams/110/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/94768_54049_starsports1.jpg" group-title="Sports",Star Sports 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/bd24d5a7e3.m3u8
-#http://livetv.grabdeal.xyz/starsports1
+#http://stream-e30453a4b.nmbs.top/m3u/Sports/bd24d5a7e3.m3u8
+http://livetv.grabdeal.xyz/starsports1
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports",Star Sports 2
 http://livetv.grabdeal.xyz/starsports2
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-name="Star Sports 3" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/19326_32980_starsports3.jpg" group-title="Sports",Star Sports 3
