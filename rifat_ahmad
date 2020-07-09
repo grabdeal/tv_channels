@@ -30,7 +30,8 @@ http://stream-e30453a4b.nmbs.top/m3u/Bangladesh/98643cbc3d.m3u8
 #https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Channel 9" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%209.png" group-title="Bangladesh",Channel 9
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/e327dc79d1.m3u8
+http://45.249.187.238:8081/hls/live3.m3u8
+#http://stream-e30453a4b.nmbs.top/m3u/Bangladesh/dd970fe135.m3u8
 #https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #http://103.141.66.36/bpk-tv/10080/default/manifest.mpd
 #EXTINF:-1 tvg-id="Channel 24" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/channel%2024.png" group-title="Bangladesh",Channel 24
