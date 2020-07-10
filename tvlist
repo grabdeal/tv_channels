@@ -95,7 +95,6 @@ http://livetv.grabdeal.xyz/starjalsha
 http://livetv.grabdeal.xyz/jalshamovies
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/9UFJ2nd.png" group-title="Kolkata Bangla",Zee Bangla
 http://livetv.grabdeal.xyz/zeebangla
-#http://103.141.66.36/bpk-tv/10185/default/manifest.mpd
 #EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/oNBvs6r.png" group-title="Kolkata Bangla",Zee Bangla Cinema
 http://livetv.grabdeal.xyz/zeebanglacinema
 
