@@ -189,11 +189,9 @@ http://livetv.grabdeal.xyz/starsportsselect2
 #EXTINF:-1 tvg-id="Sky Sport Action" tvg-name="Sky Sport Action" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/26961_30968_skyaction.jpg" group-title="Sports",Sky Sport Action
 http://livetv.grabdeal.xyz/skysportsaction
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/59946_17287_skyarena.jpg" group-title="Sports",Sky Sport Arena
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/743
 https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/97531_skycricket.jpg" group-title="Sports",Sky Sports Cricket
-#http://amigotv.online:8080/faucontv/2c248b3e1d35/269
-https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+http://livetv.grabdeal.xyz/skysportscricket
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/51391_13208_skyf1new.jpg" group-title="Sports",Sky Sport F1
 #http://amigotv.online:8080/faucontv/2c248b3e1d35/265
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
@@ -213,7 +211,7 @@ https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
 #http://amigotv.online:8080/faucontv/2c248b3e1d35/260
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93885_89284_skyleauge.jpg" group-title="Sports",Sky Sport Premier League
-https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+http://livetv.grabdeal.xyz/skysportspremierleague
 #EXTINF:-1 tvg-id="Titas Sports" tvg-name="Titas Sports" tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",Titas Sports
 http://livetv.grabdeal.xyz/titassports
 
