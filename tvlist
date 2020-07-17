@@ -225,43 +225,41 @@ http://livetv.grabdeal.xyz/&prive
 #EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="Hindi",Colors
 http://livetv.grabdeal.xyz/colorshindi
 #EXTINF:-1 tvg-id="Sony Pal" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/9lOaU2P.jpg" group-title="Hindi",Sony Pal
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
+http://livetv.grabdeal.xyz/sonypal
 #EXTINF:-1 tvg-id="Sony SAB" tvg-name="Sony SAB" tvg-logo="https://i.imgur.com/WmCucdD.jpg" group-title="Hindi",Sony SAB
 http://livetv.grabdeal.xyz/sonysab
 #EXTINF:-1 tvg-id="Sony Set Max" tvg-name="Sony Set Max" tvg-logo="https://i.imgur.com/sd5m075.jpg" group-title="Hindi",Sony Set Max
 http://livetv.grabdeal.xyz/sonysetmax
 #EXTINF:-1 tvg-id="Sony TV" tvg-name="Sony TV" tvg-logo="https://i.imgur.com/45hPX07.jpg" group-title="Hindi",Sony TV
 http://livetv.grabdeal.xyz/sonytv
-#EXTINF:-1 tvg-id="Sony Wah" tvg-name="Sony Wah" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/SonyWah" group-title="Hindi",Sony Wah
-http://216.144.250.174/Sony_Mix_HD/index.m3u8
-#EXTINF:-1 tvg-id="Star Plus" tvg-name="Star Plus" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniBangla.png" group-title="Hindi",Star Plus
-http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Zee Action" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/ATNIslamic.png" group-title="Hindi",Zee Action
-http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Zee Aflam" tvg-name="Zee Aflam" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/ZeeAflam" group-title="Hindi",Zee Aflam
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1 tvg-id="Zee Anmol" tvg-name="Zee Anmol" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Hindi/ZeeAnmol" group-title="Hindi",Zee Anmol
-http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Hindi",Zee TV
-http://103.115.159.37:8080/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Zee World" tvg-name="Zee World" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/IqraBanglaTV.png" group-title="Hindi",Zee World
-http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Sony Wah" tvg-name="Sony Wah" tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="Hindi",Sony Wah
+http://livetv.grabdeal.xyz/sonywah
+#EXTINF:-1 tvg-id="Star Plus" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="Hindi",Star Plus
+http://livetv.grabdeal.xyz/starplus
+#EXTINF:-1 tvg-id="Zee Action" tvg-name="Zee Action" tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="Hindi",Zee Action
+http://livetv.grabdeal.xyz/zeeaction
+#EXTINF:-1 tvg-id="Zee Anmol" tvg-name="Zee Anmol" tvg-logo="https://scontent-maa2-1.xx.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/22467410_775504159288137_7208674716923983626_o.jpg?_nc_cat=105&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeEsJ5tyfUap99g-Gth_-xyXj6zQLNZyNXuPrNAs1nI1e02BxbCBIbV7kJQkO_pgezhOwjxWxnWR7l6w-6LeEFLg&_nc_ohc=vMSStfYurlwAX-Ah1Ql&_nc_ht=scontent-maa2-1.xx&tp=14&oh=545f1d5ffca95a6e6054a7d7d94e63e1&oe=5F391E5D" group-title="Hindi",Zee Anmol
+http://livetv.grabdeal.xyz/zeeanmol
+#EXTINF:-1 tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="Hindi",Zee TV
+http://livetv.grabdeal.xyz/zeetv
+#EXTINF:-1 tvg-id="Zee World" tvg-name="Zee World" tvg-logo="https://uploads.tapatalk-cdn.com/20180221/f9fec20af016ed1f4a18136cfa76b96b.jpg" group-title="Hindi",Zee World
+http://livetv.grabdeal.xyz/zeeworld
 
 #Movies
 #EXTINF:-1 tvg-id="Aamar Cinema" tvg-name="Aamar Cinema" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/p960x960/93044528_640244499874017_5814055812225564672_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=POcQNZtRQhgAX_Kscyk&_nc_ht=scontent.fdac74-1.fna&_nc_tp=6&oh=8c81871c4b940ebf9ed8474b42a36af7&oe=5ED7542E" group-title="Movies",Aamar Cinema
-https://streamhoichoi.multitvsolution.in/live/AamarCinema-h/p4.m3u8
+http://livetv.grabdeal.xyz/aamarcinema
 #EXTINF:-1 tvg-id="Tollywood" tvg-name="Tollywood" tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.0-9/1174587_223646891121587_937526636_n.jpg?_nc_cat=105&_nc_sid=85a577&_nc_ohc=RfJWuQQzJFwAX_5wWsL&_nc_ht=scontent.fdac74-1.fna&oh=709520ca2e4ab84d5adc7de057db8f7b&oe=5ED78FBA" group-title="Movies",Tollywood
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="Star Gold" tvg-name="Star Gold" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Movies",Star Gold
-https://edge01.iptv.digijadoo.net//live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-id="Star Gold 2" tvg-name="Star Gold 2" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/AzanTV.png" group-title="Movies",Star Gold 2
-https://edge01.iptv.digijadoo.net//live/movies_ok/chunks.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/Aldawah%20TV.png" group-title="Movies",Zee Cinema
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Zee Bollywood" tvg-name="Zee Bollywood" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/ATNIslamic.png" group-title="Movies",Zee Bollywood
-http://216.144.250.174/Zee_ClassIc_HD/index.m3u8
-#EXTINF:-1 tvg-id="Zee Drama" tvg-name="Zee Drama" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/IqraBanglaTV.png" group-title="Movies",Zee Drama
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+http://livetv.grabdeal.xyz/tollywood
+#EXTINF:-1 tvg-id="Star Gold" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Movies",Star Gold
+http://livetv.grabdeal.xyz/stargold
+#EXTINF:-1 tvg-id="Star Gold 2" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Movies",Star Gold 2
+http://livetv.grabdeal.xyz/stargold2
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Movies",Zee Cinema
+http://livetv.grabdeal.xyz/zeecinema
+#EXTINF:-1 tvg-id="Zee Bollywood" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="Movies",Zee Bollywood
+http://livetv.grabdeal.xyz/zeebollywood
+#EXTINF:-1 tvg-id="Zee Drama" tvg-name="Zee Theatre" tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33_400x400.jpg" group-title="Movies",Zee Drama
+http://livetv.grabdeal.xyz/zeetheatre
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/AXN" group-title="Movies",AXN
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="Fox Action Movies" tvg-name="Fox Action Movies" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Movies/FoxActionMovies" group-title="Movies",Fox Action Movies
