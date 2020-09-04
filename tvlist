@@ -214,6 +214,8 @@ http://livetv.grabdeal.xyz/skysportsmix
 http://livetv.grabdeal.xyz/skysportsnews
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-name="Sky Sport Premier League" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/93885_89284_skyleauge.jpg" group-title="Sports",Sky Sport Premier League
 http://livetv.grabdeal.xyz/skysportspremierleague
+#EXTINF:-1 tvg-id="Ten Sports" tvg-name="Ten Sports" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
+http://livetv.grabdeal.xyz/tensports
 #EXTINF:-1 tvg-id="Titas Sports" tvg-name="Titas Sports" tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",Titas Sports
 http://livetv.grabdeal.xyz/titassports
 
